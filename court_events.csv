@@ -1,24 +1,9 @@
 docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_pm,street,city,zip_code,division
-82-5-20,addison,civil,Superior Court Courtroom 2,Status Conference,Friday,23,Apr,9:00,AM,7 Mahady Court , Middlebury,05753,civil
-167-8-19,addison,civil,Superior Court Courtroom 2,Pre Trial Conference,Friday,23,Apr,9:15,AM,7 Mahady Court , Middlebury,05753,civil
-142-7-19,addison,civil,Superior Court Courtroom 2,Status Conference,Friday,23,Apr,9:45,AM,7 Mahady Court , Middlebury,05753,civil
-74-5-18,addison,civil,Superior Court Courtroom 2,Status Conference,Friday,23,Apr,10:00,AM,7 Mahady Court , Middlebury,05753,civil
-189-9-19,addison,civil,Superior Court Courtroom 2,Status Conference,Friday,23,Apr,10:15,AM,7 Mahady Court , Middlebury,05753,civil
-76-5-20,addison,civil,Superior Court Courtroom 2,Status Conference,Friday,23,Apr,10:45,AM,7 Mahady Court , Middlebury,05753,civil
-27-2-20,addison,civil,Superior Court Courtroom 2,Status Conference,Friday,23,Apr,11:00,AM,7 Mahady Court , Middlebury,05753,civil
-20-2-19,addison,civil,Superior Court Courtroom 2,Status Conference,Friday,23,Apr,11:15,AM,7 Mahady Court , Middlebury,05753,civil
-238-11-19,addison,civil,Superior Court Courtroom 2,Status Conference,Friday,23,Apr,11:30,AM,7 Mahady Court , Middlebury,05753,civil
-119-7-18,addison,civil,Superior Court Courtroom 2,Status Conference,Friday,23,Apr,1:00,PM,7 Mahady Court , Middlebury,05753,civil
-204-11-18,addison,civil,Superior Court Courtroom 2,Status Conference,Friday,23,Apr,1:00,PM,7 Mahady Court , Middlebury,05753,civil
-86-5-20,addison,civil,Superior Court Courtroom 2,Pre Trial Conference,Friday,23,Apr,1:30,PM,7 Mahady Court , Middlebury,05753,civil
-209-10-19,addison,civil,Superior Court Courtroom 2,Merits Hearing,Friday,23,Apr,1:45,PM,7 Mahady Court , Middlebury,05753,civil
-103-6-18,addison,civil,Superior Court Courtroom 2,Status Conference,Friday,23,Apr,2:15,PM,7 Mahady Court , Middlebury,05753,civil
-87-5-20,addison,civil,Superior Court Courtroom 2,Status Conference,Friday,23,Apr,2:30,PM,7 Mahady Court , Middlebury,05753,civil
 63-3-20,addison,civil,Superior Court Courtroom 2,Status Conference,Tuesday,22,Jun,9:30,AM,7 Mahady Court , Middlebury,05753,civil
-418-11-19,addison,criminal,Superior Court Courtroom 1,Change of Plea Hearing,Monday,26,Apr,9:00,AM,7 Mahady Court , Middlebury,05753,criminal
 205-7-20,addison,criminal,Superior Court Courtroom 1,Change of Plea Hearing,Monday,26,Apr,9:00,AM,7 Mahady Court , Middlebury,05753,criminal
-169-4-18,addison,criminal,Superior Court Courtroom 1,Motion Hearing,Monday,26,Apr,9:00,AM,7 Mahady Court , Middlebury,05753,criminal
+169-4-18,addison,criminal,Superior Court Courtroom 1,Status Conference,Monday,26,Apr,9:00,AM,7 Mahady Court , Middlebury,05753,criminal
 352-9-19,addison,criminal,Superior Court Courtroom 1,Status Conference,Monday,26,Apr,9:00,AM,7 Mahady Court , Middlebury,05753,criminal
+418-11-19,addison,criminal,Superior Court Courtroom 1,Status Conference,Monday,26,Apr,9:00,AM,7 Mahady Court , Middlebury,05753,criminal
 54-12-19,addison,civil suspension,Superior Court Courtroom 1,Status Conference,Monday,26,Apr,9:00,AM,7 Mahady Court , Middlebury,05753,criminal
 436-12-19,addison,criminal,Superior Court Courtroom 1,Status Conference,Monday,26,Apr,9:00,AM,7 Mahady Court , Middlebury,05753,criminal
 57-2-20,addison,criminal,Superior Court Courtroom 1,Status Conference,Monday,26,Apr,9:00,AM,7 Mahady Court , Middlebury,05753,criminal
@@ -32,6 +17,8 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 145-5-20,addison,criminal,Superior Court Courtroom 1,Status Conference,Monday,26,Apr,10:00,AM,7 Mahady Court , Middlebury,05753,criminal
 289-8-19,addison,criminal,Superior Court Courtroom 1,Sentencing Hearing,Monday,26,Apr,1:00,PM,7 Mahady Court , Middlebury,05753,criminal
 43-1-20,addison,criminal,Superior Court Courtroom 1,Sentencing Hearing,Monday,26,Apr,1:00,PM,7 Mahady Court , Middlebury,05753,criminal
+225-6-19,addison,criminal,Superior Court Courtroom 1,Change of Plea Hearing,Monday,26,Apr,1:30,PM,7 Mahady Court , Middlebury,05753,criminal
+42-1-20,addison,criminal,Superior Court Courtroom 1,Change of Plea Hearing,Monday,26,Apr,1:30,PM,7 Mahady Court , Middlebury,05753,criminal
 381-10-19,addison,criminal,Superior Court Courtroom 1,Status Conference,Monday,26,Apr,1:30,PM,7 Mahady Court , Middlebury,05753,criminal
 204-7-20,addison,criminal,Superior Court Courtroom 1,Status Conference,Monday,26,Apr,1:30,PM,7 Mahady Court , Middlebury,05753,criminal
 116-4-20,addison,criminal,Superior Court Courtroom 1,State of Vermont v.,Monday,26,Apr,02:00,PM,7 Mahady Court , Middlebury,05753,criminal
@@ -51,6 +38,8 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 87-8-19,addison,juvenile,Superior Court Courtroom 1,Juvenile Confidential Hearing,Tuesday,1,Jun,10:00,AM,7 Mahady Court , Middlebury,05753,family
 131-7-14,addison,domestic,Superior Court Courtroom 2,Motion Hearing,Wednesday,2,Jun,11:00,AM,7 Mahady Court , Middlebury,05753,family
 107-7-19,addison,domestic,Case Manager Conference Room,Case Management Conference,Thursday,3,Jun,1:00,PM,7 Mahady Court , Middlebury,05753,family
+66-4-16,addison,domestic,Superior Court Courtroom 2,Magistrate Enforcement Hearing,Thursday,3,Jun,8:30,AM,7 Mahady Court , Middlebury,05753,family
+75-3-11,addison,domestic,Superior Court Courtroom 2,Magistrate Enforcement Hearing,Thursday,3,Jun,9:30,AM,7 Mahady Court , Middlebury,05753,family
 120-8-19,addison,domestic,Superior Court Courtroom 1,Contested Dissolution Hearing,Thursday,3,Jun,9:00,AM,7 Mahady Court , Middlebury,05753,family
 92-5-09,addison,domestic,Superior Court Courtroom 1,Parent-Child Contact Review Hearing,Thursday,3,Jun,1:30,PM,7 Mahady Court , Middlebury,05753,family
 82-8-19,addison,juvenile,Superior Court Courtroom 1,Juvenile Confidential Hearing,Tuesday,15,Jun,9:00,AM,7 Mahady Court , Middlebury,05753,family
@@ -62,25 +51,15 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 12-2-19,addison,juvenile,Superior Court Courtroom 1,Juvenile Confidential Hearing,Wednesday,16,Jun,9:00,AM,7 Mahady Court , Middlebury,05753,family
 188-12-19,addison,domestic,Superior Court Courtroom 1,Contested Dissolution Hearing,Thursday,17,Jun,9:00,AM,7 Mahady Court , Middlebury,05753,family
 46-4-19,addison,juvenile,Superior Court Courtroom 1,Juvenile Confidential Hearing,Tuesday,13,Jul,9:00,AM,7 Mahady Court , Middlebury,05753,family
-244-8-18,bennington,civil,Civil/Probate Courtroom 1,Status Conference,Friday,23,Apr,9:00,AM,207 South Street , Bennington,05201,civil
+24-7-20,addison,juvenile,Superior Court Courtroom 1,Juvenile Confidential Hearing,Tuesday,13,Jul,9:30,AM,7 Mahady Court , Middlebury,05753,family
+56-5-19,addison,juvenile,Superior Court Courtroom 1,Juvenile Confidential Hearing,Tuesday,13,Jul,10:00,AM,7 Mahady Court , Middlebury,05753,family
+76-9-17,addison,juvenile,Superior Court Courtroom 1,Juvenile Confidential Hearing,Tuesday,13,Jul,10:30,AM,7 Mahady Court , Middlebury,05753,family
+77-9-17,addison,juvenile,Superior Court Courtroom 1,Juvenile Confidential Hearing,Tuesday,13,Jul,10:30,AM,7 Mahady Court , Middlebury,05753,family
+78-9-17,addison,juvenile,Superior Court Courtroom 1,Juvenile Confidential Hearing,Tuesday,13,Jul,10:30,AM,7 Mahady Court , Middlebury,05753,family
 293-10-18,bennington,civil,Civil/Probate Courtroom 1,Pre Trial Conference,Friday,30,Apr,9:00,AM,207 South Street , Bennington,05201,civil
 135-8-20,bennington,civil,Civil/Probate Courtroom 1,Motion Hearing,Monday,21,Jun,9:00,AM,207 South Street , Bennington,05201,civil
 122-7-20,bennington,civil,Civil/Probate Courtroom 1,Motion Hearing,Monday,21,Jun,10:30,AM,207 South Street , Bennington,05201,civil
 327-9-15,bennington,civil,Family/Criminal Courtroom 4,Bench Trial,Tuesday,29,Jun,9:00,AM,207 South Street , Bennington,05201,civil
-12-1-20,bennington,criminal,Family/Criminal Courtroom 3,Calendar Call,Friday,23,Apr,9:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
-1105-9-19,bennington,criminal,Family/Criminal Courtroom 3,Confidential Hearing,Friday,23,Apr,9:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
-1220-12-18,bennington,criminal,Family/Criminal Courtroom 3,Pre Trial Conference,Friday,23,Apr,9:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
-124-1-19,bennington,criminal,Family/Criminal Courtroom 3,Pre Trial Conference,Friday,23,Apr,9:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
-1047-9-19,bennington,criminal,Family/Criminal Courtroom 3,Pre Trial Conference,Friday,23,Apr,9:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
-1120-9-19,bennington,criminal,Family/Criminal Courtroom 3,Pre Trial Conference,Friday,23,Apr,9:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
-129-1-19,bennington,criminal,Family/Criminal Courtroom 3,Status Conference,Friday,23,Apr,9:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
-647-8-20,bennington,criminal,Family/Criminal Courtroom 3,State of Vermont v.,Friday,23,Apr,02:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
-381-5-20,bennington,criminal,Family/Criminal Courtroom 3,Status Conference/Change of Plea,Friday,23,Apr,2:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
-385-5-20,bennington,criminal,Family/Criminal Courtroom 3,Status Conference/Change of Plea,Friday,23,Apr,2:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
-693-8-20,bennington,criminal,Family/Criminal Courtroom 3,Status Conference/Change of Plea,Friday,23,Apr,2:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
-581-5-19,bennington,criminal,Family/Criminal Courtroom 3,Status Conference/Change of Plea,Friday,23,Apr,2:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
-1026-8-19,bennington,criminal,Family/Criminal Courtroom 3,Status Conference/Change of Plea,Friday,23,Apr,2:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
-1094-9-19,bennington,criminal,Family/Criminal Courtroom 3,Status Conference/Change of Plea,Friday,23,Apr,2:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
 277-3-20,bennington,criminal,Family/Criminal Courtroom 3,State of Vermont v.,Monday,26,Apr,08:15,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
 445-6-20,bennington,criminal,Family/Criminal Courtroom 3,State of Vermont v.,Monday,26,Apr,08:15,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
 446-6-20,bennington,criminal,Family/Criminal Courtroom 3,State of Vermont v.,Monday,26,Apr,08:15,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
@@ -90,8 +69,6 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 973-8-19,bennington,criminal,Family/Criminal Courtroom 3,Calendar Call,Monday,26,Apr,11:15,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
 775-8-16,bennington,criminal,Family/Criminal Courtroom 3,VOP Status Conference,Monday,26,Apr,11:15,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
 559-7-20,bennington,criminal,Family/Criminal Courtroom 3,Calendar Call,Monday,26,Apr,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
-904-9-18,bennington,criminal,Family/Criminal Courtroom 3,Motion Hearing,Monday,26,Apr,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
-480-6-20,bennington,criminal,Family/Criminal Courtroom 3,Pre Trial Conference,Monday,26,Apr,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
 1455-12-19,bennington,criminal,Family/Criminal Courtroom 3,Status Conference,Monday,26,Apr,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
 408-6-20,bennington,criminal,Family/Criminal Courtroom 3,Status Conference,Monday,26,Apr,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
 173-2-19,bennington,criminal,Family/Criminal Courtroom 3,Status Conference,Monday,26,Apr,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
@@ -99,6 +76,8 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 854-7-19,bennington,criminal,Family/Criminal Courtroom 3,Status Conference,Monday,26,Apr,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
 972-8-19,bennington,criminal,Family/Criminal Courtroom 3,Status Conference,Monday,26,Apr,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
 985-8-19,bennington,criminal,Family/Criminal Courtroom 3,VOP Status Conference,Monday,26,Apr,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
+904-9-18,bennington,criminal,Family/Criminal Courtroom 3,Motion Hearing,Monday,26,Apr,2:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
+564-7-20,bennington,criminal,Family/Criminal Courtroom 3,Motion Hearing,Monday,26,Apr,3:00,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
 125-1-19,bennington,criminal,Family/Criminal Courtroom 3,Sentencing Hearing,Tuesday,27,Apr,11:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
 1419-12-19,bennington,criminal,Family/Criminal Courtroom 3,Change of Plea Hearing,Tuesday,27,Apr,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
 200-2-20,bennington,criminal,Family/Criminal Courtroom 3,Change of Plea Hearing,Tuesday,27,Apr,2:00,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
@@ -188,9 +167,11 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 659-8-20,bennington,criminal,Family/Criminal Courtroom 3,Status Conference,Friday,4,Jun,10:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
 660-8-20,bennington,criminal,Family/Criminal Courtroom 3,Status Conference,Friday,4,Jun,10:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
 625-8-20,bennington,criminal,Family/Criminal Courtroom 3,Pre Trial Conference,Monday,7,Jun,11:15,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
+1324-11-19,bennington,criminal,Family/Criminal Courtroom 3,Status Conference,Monday,7,Jun,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
 393-5-20,bennington,criminal,Family/Criminal Courtroom 3,Status Conference,Monday,7,Jun,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
 821-7-19,bennington,criminal,Family/Criminal Courtroom 3,Status Conference,Monday,7,Jun,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
 690-8-20,bennington,criminal,Family/Criminal Courtroom 3,Calendar Call,Friday,11,Jun,9:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
+129-1-19,bennington,criminal,Family/Criminal Courtroom 3,Status Conference,Friday,11,Jun,9:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
 113-2-18,bennington,criminal,Family/Criminal Courtroom 3,State of Vermont v.,Monday,14,Jun,08:15,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
 334-3-19,bennington,criminal,Family/Criminal Courtroom 3,State of Vermont v.,Monday,14,Jun,08:15,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
 1311-11-19,bennington,criminal,Family/Criminal Courtroom 3,Calendar Call,Monday,14,Jun,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
@@ -240,6 +221,10 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 241-3-20,bennington,criminal,Family/Criminal Courtroom 3,Status Conference,Monday,21,Jun,11:15,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
 569-7-20,bennington,criminal,Family/Criminal Courtroom 3,Status Conference,Monday,21,Jun,11:15,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
 254-2-19,bennington,criminal,Family/Criminal Courtroom 3,Status Conference,Monday,21,Jun,11:15,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
+1320-11-19,bennington,criminal,Family/Criminal Courtroom 3,Calendar Call,Monday,21,Jun,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
+35-1-20,bennington,criminal,Family/Criminal Courtroom 3,Calendar Call,Monday,21,Jun,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
+148-2-20,bennington,criminal,Family/Criminal Courtroom 3,Calendar Call,Monday,21,Jun,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
+188-2-20,bennington,criminal,Family/Criminal Courtroom 3,Calendar Call,Monday,21,Jun,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
 704-8-20,bennington,criminal,Family/Criminal Courtroom 3,Calendar Call,Monday,21,Jun,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
 687-7-17,bennington,criminal,Family/Criminal Courtroom 3,Calendar Call,Monday,21,Jun,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
 541-5-19,bennington,criminal,Family/Criminal Courtroom 3,Calendar Call,Monday,21,Jun,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
@@ -247,7 +232,10 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 678-6-19,bennington,criminal,Family/Criminal Courtroom 3,Calendar Call,Monday,21,Jun,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
 967-8-19,bennington,criminal,Family/Criminal Courtroom 3,Calendar Call,Monday,21,Jun,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
 1199-10-19,bennington,criminal,Family/Criminal Courtroom 3,Calendar Call,Monday,21,Jun,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
+480-6-20,bennington,criminal,Family/Criminal Courtroom 3,Pre Trial Conference,Monday,21,Jun,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
+564-6-17,bennington,criminal,Family/Criminal Courtroom 3,Status Conference,Monday,21,Jun,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
 1008-8-19,bennington,criminal,Family/Criminal Courtroom 3,Status Conference,Monday,21,Jun,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
+1114-9-19,bennington,criminal,Family/Criminal Courtroom 3,Status Conference,Monday,21,Jun,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
 421-5-18,bennington,criminal,Family/Criminal Courtroom 3,VOP Status Conference,Monday,21,Jun,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,criminal
 532-7-20,bennington,criminal,Family/Criminal Courtroom 3,Bench Trial,Tuesday,22,Jun,9:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
 294-3-20,bennington,criminal,Family/Criminal Courtroom 3,VOP Status Conference,Wednesday,23,Jun,9:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
@@ -275,13 +263,17 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 728-6-19,bennington,criminal,Family/Criminal Courtroom 3,Status Conference/Change of Plea,Tuesday,29,Jun,9:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
 824-7-19,bennington,criminal,Family/Criminal Courtroom 3,Status Conference/Change of Plea,Tuesday,29,Jun,9:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
 906-8-19,bennington,criminal,Family/Criminal Courtroom 3,Status Conference/Change of Plea,Tuesday,29,Jun,9:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
-456-6-20,bennington,criminal,Family/Criminal Courtroom 3,Pre Trial Conference,Friday,2,Jul,9:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
-463-6-20,bennington,criminal,Family/Criminal Courtroom 3,Pre Trial Conference,Friday,2,Jul,9:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
-45-1-20,bennington,criminal,Family/Criminal Courtroom 3,Status Conference,Friday,2,Jul,9:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
-118-2-20,bennington,criminal,Family/Criminal Courtroom 3,Status Conference,Friday,2,Jul,9:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
-153-2-20,bennington,criminal,Family/Criminal Courtroom 3,Status Conference,Friday,2,Jul,9:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
-517-7-20,bennington,criminal,Family/Criminal Courtroom 3,Status Conference,Friday,2,Jul,9:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
-79-1-19,bennington,criminal,Family/Criminal Courtroom 3,VOP Status Conference,Friday,2,Jul,9:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
+1302-11-19,bennington,criminal,Family/Criminal Courtroom 3,Calendar Call,Friday,2,Jul,10:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
+90-1-20,bennington,criminal,Family/Criminal Courtroom 3,Calendar Call,Friday,2,Jul,10:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
+641-5-19,bennington,criminal,Family/Criminal Courtroom 3,Calendar Call,Friday,2,Jul,10:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
+640-5-19,bennington,criminal,Family/Criminal Courtroom 3,Calendar Call,Friday,2,Jul,10:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
+456-6-20,bennington,criminal,Family/Criminal Courtroom 3,Pre Trial Conference,Friday,2,Jul,10:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
+463-6-20,bennington,criminal,Family/Criminal Courtroom 3,Pre Trial Conference,Friday,2,Jul,10:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
+45-1-20,bennington,criminal,Family/Criminal Courtroom 3,Status Conference,Friday,2,Jul,10:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
+118-2-20,bennington,criminal,Family/Criminal Courtroom 3,Status Conference,Friday,2,Jul,10:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
+153-2-20,bennington,criminal,Family/Criminal Courtroom 3,Status Conference,Friday,2,Jul,10:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
+517-7-20,bennington,criminal,Family/Criminal Courtroom 3,Status Conference,Friday,2,Jul,10:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
+79-1-19,bennington,criminal,Family/Criminal Courtroom 3,VOP Status Conference,Friday,2,Jul,10:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
 232-2-19,bennington,criminal,Family/Criminal Courtroom 3,Calendar Call,Friday,2,Jul,11:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
 793-7-19,bennington,criminal,Family/Criminal Courtroom 3,Calendar Call,Friday,2,Jul,11:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
 1030-9-19,bennington,criminal,Family/Criminal Courtroom 3,Calendar Call,Friday,2,Jul,11:00,AM,200 Veterans Memorial Drive , Bennington,05201,criminal
@@ -427,6 +419,8 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 105-6-19,bennington,juvenile,Family/Criminal Courtroom 1,Juvenile Confidential Hearing,Thursday,15,Jul,9:00,AM,200 Veterans Memorial Drive , Bennington,05201,family
 106-6-19,bennington,juvenile,Family/Criminal Courtroom 1,Juvenile Confidential Hearing,Thursday,15,Jul,9:00,AM,200 Veterans Memorial Drive , Bennington,05201,family
 107-6-19,bennington,juvenile,Family/Criminal Courtroom 1,Juvenile Confidential Hearing,Thursday,15,Jul,9:00,AM,200 Veterans Memorial Drive , Bennington,05201,family
+32-3-17,bennington,juvenile,Family/Criminal Courtroom 1,Juvenile Confidential Hearing,Thursday,15,Jul,9:30,AM,200 Veterans Memorial Drive , Bennington,05201,family
+112-10-15,bennington,juvenile,Family/Criminal Courtroom 1,Juvenile Confidential Hearing,Thursday,15,Jul,10:00,AM,200 Veterans Memorial Drive , Bennington,05201,family
 56-5-20,bennington,juvenile,Family/Criminal Courtroom 1,Juvenile Confidential Hearing,Thursday,15,Jul,10:30,AM,200 Veterans Memorial Drive , Bennington,05201,family
 135-7-18,bennington,juvenile,Family/Criminal Courtroom 1,Juvenile Confidential Hearing,Thursday,15,Jul,1:00,PM,200 Veterans Memorial Drive , Bennington,05201,family
 207-10-19,bennington,juvenile,Family/Criminal Courtroom 1,Juvenile Confidential Hearing,Thursday,15,Jul,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,family
@@ -451,6 +445,7 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 65-4-20,bennington,domestic,Family/Criminal Courtroom 2,Magistrate Child Support Establishment Hearing,Wednesday,28,Jul,2:30,PM,200 Veterans Memorial Drive , Bennington,05201,family
 156-8-19,bennington,domestic,Family/Criminal Courtroom 1,Contested Dissolution Hearing,Wednesday,28,Jul,9:00,AM,200 Veterans Memorial Drive , Bennington,05201,family
 171-10-19,bennington,juvenile,Family/Criminal Courtroom 1,Juvenile Confidential Hearing,Friday,30,Jul,1:00,PM,200 Veterans Memorial Drive , Bennington,05201,family
+183-10-19,bennington,juvenile,Family/Criminal Courtroom 1,Juvenile Confidential Hearing,Friday,30,Jul,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,family
 102-5-09,bennington,domestic,Family/Criminal Courtroom 1,Evidentiary Hearing,Tuesday,3,Aug,9:00,AM,200 Veterans Memorial Drive , Bennington,05201,family
 44-2-20,bennington,domestic,Family/Criminal Courtroom 2,Magistrate Child Support Deviation Hearing,Wednesday,4,Aug,9:00,AM,200 Veterans Memorial Drive , Bennington,05201,family
 299-12-09,bennington,domestic,Family/Criminal Courtroom 2,Magistrate Child Support Review Hearing,Wednesday,4,Aug,1:00,PM,200 Veterans Memorial Drive , Bennington,05201,family
@@ -466,45 +461,20 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 20-2-19,bennington,juvenile,Family/Criminal Courtroom 1,Juvenile Confidential Hearing,Thursday,2,Sep,9:00,AM,200 Veterans Memorial Drive , Bennington,05201,family
 21-2-19,bennington,juvenile,Family/Criminal Courtroom 1,Juvenile Confidential Hearing,Thursday,2,Sep,9:00,AM,200 Veterans Memorial Drive , Bennington,05201,family
 11-1-18,bennington,juvenile,Family/Criminal Courtroom 1,Juvenile Confidential Hearing,Thursday,2,Sep,1:00,PM,200 Veterans Memorial Drive , Bennington,05201,family
+113-9-17,bennington,juvenile,Family/Criminal Courtroom 1,Juvenile Confidential Hearing,Thursday,2,Sep,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,family
+114-9-17,bennington,juvenile,Family/Criminal Courtroom 1,Juvenile Confidential Hearing,Thursday,2,Sep,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,family
+115-9-17,bennington,juvenile,Family/Criminal Courtroom 1,Juvenile Confidential Hearing,Thursday,2,Sep,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,family
+38-3-19,bennington,juvenile,Family/Criminal Courtroom 1,Juvenile Confidential Hearing,Thursday,2,Sep,2:00,PM,200 Veterans Memorial Drive , Bennington,05201,family
 180-11-17,bennington,juvenile,Family/Criminal Courtroom 1,Juvenile Confidential Hearing,Thursday,9,Sep,1:00,PM,200 Veterans Memorial Drive , Bennington,05201,family
+183-10-19,bennington,juvenile,Family/Criminal Courtroom 1,Juvenile Confidential Hearing,Friday,10,Sep,9:00,AM,200 Veterans Memorial Drive , Bennington,05201,family
 166-9-19,bennington,juvenile,Family/Criminal Courtroom 1,Juvenile Confidential Hearing,Thursday,30,Sep,1:00,PM,200 Veterans Memorial Drive , Bennington,05201,family
 228-11-19,bennington,juvenile,Family/Criminal Courtroom 1,Juvenile Confidential Hearing,Thursday,7,Oct,1:00,PM,200 Veterans Memorial Drive , Bennington,05201,family
 156-10-17,bennington,juvenile,Family/Criminal Courtroom 1,Juvenile Confidential Hearing,Thursday,7,Oct,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,family
 157-10-17,bennington,juvenile,Family/Criminal Courtroom 1,Juvenile Confidential Hearing,Thursday,7,Oct,1:30,PM,200 Veterans Memorial Drive , Bennington,05201,family
 84-4-18,bennington,juvenile,Family/Criminal Courtroom 1,Juvenile Confidential Hearing,Thursday,7,Oct,2:00,PM,200 Veterans Memorial Drive , Bennington,05201,family
 115-8-20,caledonia,small claims,Caledonia Courtroom 3,Financial Disclosure Hearing,Monday,26,Apr,9:00,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,civil
-20-1-21,caledonia,small claims,Caledonia Courtroom 3,Small Claims Merits Hearing,Monday,26,Apr,10:30,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,civil
 253-9-14,caledonia,small claims,Caledonia Courtroom 3,Financial Disclosure Hearing,Monday,26,Apr,2:00,PM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,civil
 64-4-13,caledonia,small claims,Caledonia Courtroom 3,Financial Disclosure Hearing,Monday,26,Apr,2:30,PM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,civil
-24-7-20,essex,criminal,Caledonia Courtroom 1,Motion Hearing,Friday,23,Apr,8:00,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
-44-8-20,essex,criminal,Caledonia Courtroom 1,Motion Hearing,Friday,23,Apr,8:00,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
-45-8-20,essex,criminal,Caledonia Courtroom 1,Motion Hearing,Friday,23,Apr,8:00,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
-238-4-16,caledonia,criminal,Caledonia Courtroom 1,Motion Hearing,Friday,23,Apr,9:00,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
-50-2-19,caledonia,criminal,Caledonia Courtroom 1,Change of Plea Hearing,Friday,23,Apr,9:30,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
-568-10-19,caledonia,criminal,Caledonia Courtroom 1,Change of Plea Hearing,Friday,23,Apr,9:30,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
-569-10-19,caledonia,criminal,Caledonia Courtroom 1,Change of Plea Hearing,Friday,23,Apr,9:30,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
-570-10-19,caledonia,criminal,Caledonia Courtroom 1,Change of Plea Hearing,Friday,23,Apr,9:30,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
-572-10-19,caledonia,criminal,Caledonia Courtroom 1,Change of Plea Hearing,Friday,23,Apr,9:30,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
-573-10-19,caledonia,criminal,Caledonia Courtroom 1,Change of Plea Hearing,Friday,23,Apr,9:30,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
-571-10-19,caledonia,criminal,Caledonia Courtroom 1,Change of Plea Hearing,Friday,23,Apr,9:30,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
-618-11-19,caledonia,criminal,Caledonia Courtroom 1,Change of Plea Hearing,Friday,23,Apr,9:30,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
-679-12-19,caledonia,criminal,Caledonia Courtroom 1,Change of Plea Hearing,Friday,23,Apr,9:30,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
-23-1-20,caledonia,criminal,Caledonia Courtroom 1,Change of Plea Hearing,Friday,23,Apr,9:30,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
-53-2-20,caledonia,criminal,Caledonia Courtroom 1,Change of Plea Hearing,Friday,23,Apr,9:30,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
-82-2-20,caledonia,criminal,Caledonia Courtroom 1,Change of Plea Hearing,Friday,23,Apr,9:30,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
-112-3-20,caledonia,criminal,Caledonia Courtroom 1,Change of Plea Hearing,Friday,23,Apr,9:30,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
-134-3-20,caledonia,criminal,Caledonia Courtroom 1,Change of Plea Hearing,Friday,23,Apr,9:30,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
-135-3-20,caledonia,criminal,Caledonia Courtroom 1,Change of Plea Hearing,Friday,23,Apr,9:30,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
-136-3-20,caledonia,criminal,Caledonia Courtroom 1,Change of Plea Hearing,Friday,23,Apr,9:30,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
-210-5-20,caledonia,criminal,Caledonia Courtroom 1,Change of Plea Hearing,Friday,23,Apr,9:30,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
-118-3-19,caledonia,criminal,Caledonia Courtroom 1,Confidential Hearing,Friday,23,Apr,9:30,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
-202-4-19,caledonia,criminal,Caledonia Courtroom 1,Confidential Hearing,Friday,23,Apr,9:30,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
-632-11-19,caledonia,criminal,Caledonia Courtroom 1,Confidential Hearing,Friday,23,Apr,9:30,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
-640-11-19,caledonia,criminal,Caledonia Courtroom 1,Confidential Hearing,Friday,23,Apr,9:30,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
-13-1-20,caledonia,criminal,Caledonia Courtroom 1,Confidential Hearing,Friday,23,Apr,9:30,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
-50-7-17,essex,criminal,Caledonia Courtroom 1,Status Conference,Friday,23,Apr,1:30,PM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
-533-11-20,caledonia,criminal,Caledonia Courtroom 1,Status Conference,Friday,23,Apr,1:30,PM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
-530-11-20,caledonia,criminal,Caledonia Courtroom 1,Attorney or Appear Hearing,Monday,26,Apr,9:00,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
 23-1-19,caledonia,criminal,Caledonia Courtroom 1,Status Conference,Monday,26,Apr,9:00,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
 174-4-20,caledonia,criminal,Caledonia Courtroom 1,Status Conference,Monday,26,Apr,9:00,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
 348-8-20,caledonia,criminal,Caledonia Courtroom 1,Status Conference,Monday,26,Apr,9:00,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
@@ -518,6 +488,7 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 325-6-19,caledonia,criminal,Caledonia Courtroom 1,VOP Merits Hearing,Wednesday,28,Apr,1:30,PM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
 853-12-16,caledonia,criminal,Caledonia Courtroom 1,VOP Merits Hearing,Wednesday,28,Apr,2:00,PM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
 94-2-20,caledonia,criminal,Caledonia Courtroom 1,State of Vermont v.,Wednesday,28,Apr,03:00,PM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
+501-9-19,caledonia,criminal,Caledonia Courtroom 1,Motion Hearing,Wednesday,28,Apr,3:30,PM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
 81-9-18,essex,criminal,Caledonia Courtroom 1,Status Conference,Thursday,29,Apr,9:00,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
 15-3-19,essex,criminal,Caledonia Courtroom 1,Status Conference,Thursday,29,Apr,9:00,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
 42-7-19,essex,criminal,Caledonia Courtroom 1,Status Conference,Thursday,29,Apr,9:00,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,criminal
@@ -541,6 +512,9 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 12-1-17,caledonia,domestic,Caledonia Courtroom 3,Magistrate Work 4 Kids Review Hearing,Thursday,29,Apr,1:45,PM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,family
 210-10-15,caledonia,domestic,Caledonia Courtroom 3,Magistrate Miscellaneous Hearing,Thursday,29,Apr,2:30,PM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,family
 114-9-20,caledonia,domestic,Caledonia Case Manager Conference Room,Case Management Conference OCS,Thursday,29,Apr,11:00,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,family
+24-7-20,caledonia,juvenile,Caledonia Courtroom 4,Juvenile Confidential Hearing,Thursday,29,Apr,9:30,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,family
+53-9-20,caledonia,juvenile,Caledonia Courtroom 4,Juvenile Confidential Hearing,Thursday,29,Apr,9:30,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,family
+85-12-20,caledonia,juvenile,Caledonia Courtroom 4,Juvenile Confidential Hearing,Thursday,29,Apr,9:30,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,family
 15-9-20,essex,juvenile,Caledonia Courtroom 4,Juvenile Confidential Hearing,Thursday,29,Apr,10:00,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,family
 16-9-20,essex,juvenile,Caledonia Courtroom 4,Juvenile Confidential Hearing,Thursday,29,Apr,10:00,AM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,family
 10-2-20,caledonia,juvenile,Caledonia Courtroom 4,Juvenile Confidential Hearing,Thursday,29,Apr,1:00,PM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,family
@@ -553,27 +527,7 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 71-4-15,caledonia,domestic,Caledonia Courtroom 3,Magistrate Child Support Deviation Hearing,Thursday,10,Jun,1:30,PM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,family
 115-6-14,caledonia,domestic,Caledonia Courtroom 3,Magistrate Enforcement Hearing,Thursday,17,Jun,1:00,PM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,family
 96-8-20,caledonia,domestic,Caledonia Case Manager Conference Room,Case Management Conference OCS,Thursday,17,Jun,1:00,PM,"1126 Main St., Ste 1 ", St. Johnsbury,05819,family
-499-5-19,chittenden,small claims,Civil/Probate Courtroom 3 - Third Floor,Financial Disclosure Hearing,Friday,23,Apr,8:30,AM,175 Main Street , Burlington,05401,civil
-894-9-19,chittenden,small claims,Civil/Probate Courtroom 3 - Third Floor,Financial Disclosure Hearing,Friday,23,Apr,8:40,AM,175 Main Street , Burlington,05401,civil
-541-5-19,chittenden,small claims,Civil/Probate Courtroom 3 - Third Floor,Financial Disclosure Hearing,Friday,23,Apr,8:50,AM,175 Main Street , Burlington,05401,civil
-1001-10-19,chittenden,small claims,Civil/Probate Courtroom 3 - Third Floor,Financial Disclosure Hearing,Friday,23,Apr,9:00,AM,175 Main Street , Burlington,05401,civil
-598-6-19,chittenden,small claims,Civil/Probate Courtroom 3 - Third Floor,Financial Disclosure Hearing,Friday,23,Apr,9:10,AM,175 Main Street , Burlington,05401,civil
-523-3-09,chittenden,small claims,Civil/Probate Courtroom 3 - Third Floor,Financial Disclosure Hearing,Friday,23,Apr,9:20,AM,175 Main Street , Burlington,05401,civil
-459-5-19,chittenden,small claims,Civil/Probate Courtroom 3 - Third Floor,Financial Disclosure Hearing,Friday,23,Apr,9:30,AM,175 Main Street , Burlington,05401,civil
-275-3-19,chittenden,small claims,Civil/Probate Courtroom 3 - Third Floor,Financial Disclosure Hearing,Friday,23,Apr,10:00,AM,175 Main Street , Burlington,05401,civil
-690-7-19,chittenden,small claims,Civil/Probate Courtroom 3 - Third Floor,Financial Disclosure Hearing,Friday,23,Apr,10:10,AM,175 Main Street , Burlington,05401,civil
-251-3-19,chittenden,small claims,Civil/Probate Courtroom 3 - Third Floor,Financial Disclosure Hearing,Friday,23,Apr,10:20,AM,175 Main Street , Burlington,05401,civil
-538-5-19,chittenden,small claims,Civil/Probate Courtroom 3 - Third Floor,Financial Disclosure Hearing,Friday,23,Apr,10:30,AM,175 Main Street , Burlington,05401,civil
-167-2-18,chittenden,small claims,Civil/Probate Courtroom 3 - Third Floor,Financial Disclosure Hearing,Friday,23,Apr,10:40,AM,175 Main Street , Burlington,05401,civil
-494-5-19,chittenden,small claims,Civil/Probate Courtroom 3 - Third Floor,Financial Disclosure Hearing,Friday,23,Apr,10:50,AM,175 Main Street , Burlington,05401,civil
-524-5-19,chittenden,small claims,Civil/Probate Courtroom 3 - Third Floor,Financial Disclosure Hearing,Friday,23,Apr,11:00,AM,175 Main Street , Burlington,05401,civil
-418-5-18,chittenden,small claims,Civil/Probate Courtroom 3 - Third Floor,Financial Disclosure Hearing,Friday,23,Apr,11:10,AM,175 Main Street , Burlington,05401,civil
-530-5-19,chittenden,small claims,Civil/Probate Courtroom 3 - Third Floor,Financial Disclosure Hearing,Friday,23,Apr,11:20,AM,175 Main Street , Burlington,05401,civil
-1239-10-14,chittenden,small claims,Civil/Probate Courtroom 3 - Third Floor,Financial Disclosure Hearing,Friday,23,Apr,11:30,AM,175 Main Street , Burlington,05401,civil
-1071-11-12,chittenden,small claims,Civil/Probate Courtroom 3 - Third Floor,Financial Disclosure Hearing,Friday,23,Apr,11:40,AM,175 Main Street , Burlington,05401,civil
-578-8-20,chittenden,small claims,Civil/Probate Courtroom 3 - Third Floor,Small Claims Merits Hearing,Friday,23,Apr,1:00,PM,175 Main Street , Burlington,05401,civil
 636-7-19,chittenden,civil,Civil/Probate Courtroom 2 - Second Floor,Pre Trial Conference,Monday,26,Apr,10:00,AM,175 Main Street , Burlington,05401,civil
-554-6-19,chittenden,civil,Civil/Probate Courtroom 2 - Second Floor,Status Conference,Monday,26,Apr,10:00,AM,175 Main Street , Burlington,05401,civil
 406-6-20,chittenden,civil,Civil/Probate Courtroom 2 - Second Floor,Pre Trial Conference,Monday,26,Apr,10:30,AM,175 Main Street , Burlington,05401,civil
 513-8-20,chittenden,civil,Civil/Probate Courtroom 2 - Second Floor,Status Conference,Monday,26,Apr,10:30,AM,175 Main Street , Burlington,05401,civil
 1129-12-19,chittenden,civil,Civil/Probate Courtroom 2 - Second Floor,Status Conference,Monday,26,Apr,11:00,AM,175 Main Street , Burlington,05401,civil
@@ -587,40 +541,11 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 484-6-19,chittenden,civil,Civil/Probate Courtroom 2 - Second Floor,Bench Trial,Friday,30,Apr,8:30,AM,175 Main Street , Burlington,05401,civil
 236-3-14,chittenden,civil,Civil/Probate Courtroom 2 - Second Floor,Motion Hearing,Wednesday,9,Jun,1:00,PM,175 Main Street , Burlington,05401,civil
 344-3-14,chittenden,civil,Civil/Probate Courtroom 2 - Second Floor,Motion Hearing,Wednesday,9,Jun,1:15,PM,175 Main Street , Burlington,05401,civil
+485-5-15,chittenden,civil,Civil/Probate Courtroom 2 - Second Floor,Motion Hearing,Wednesday,9,Jun,1:30,PM,175 Main Street , Burlington,05401,civil
+242-3-15,chittenden,civil,Civil/Probate Courtroom 2 - Second Floor,Motion Hearing,Wednesday,9,Jun,1:45,PM,175 Main Street , Burlington,05401,civil
+1011-11-18,chittenden,civil,Civil/Probate Courtroom 2 - Second Floor,Motion Hearing,Wednesday,9,Jun,2:00,PM,175 Main Street , Burlington,05401,civil
+623-8-18,chittenden,civil,Civil/Probate Courtroom 2 - Second Floor,Motion Hearing,Wednesday,9,Jun,2:15,PM,175 Main Street , Burlington,05401,civil
 382-6-20,chittenden,civil,Civil/Probate Courtroom 2 - Second Floor,Motion Hearing,Monday,14,Jun,8:30,AM,175 Main Street , Burlington,05401,civil
-1309-5-20,chittenden,criminal,Family/Criminal Courtroom 2B,Status Conference,Friday,23,Apr,8:30,AM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
-1317-5-20,chittenden,criminal,Family/Criminal Courtroom 2B,Status Conference,Friday,23,Apr,8:30,AM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
-1712-7-20,chittenden,criminal,Family/Criminal Courtroom 2B,Status Conference,Friday,23,Apr,9:00,AM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
-2912-8-19,chittenden,criminal,Family/Criminal Courtroom 2B,Motion Hearing,Friday,23,Apr,9:30,AM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
-3518-10-19,chittenden,criminal,Family/Criminal Courtroom 2B,Motion Hearing,Friday,23,Apr,9:30,AM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
-3571-10-19,chittenden,criminal,Family/Criminal Courtroom 2B,Motion Hearing,Friday,23,Apr,9:30,AM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
-3573-10-19,chittenden,criminal,Family/Criminal Courtroom 2B,Motion Hearing,Friday,23,Apr,9:30,AM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
-3763-10-19,chittenden,criminal,Family/Criminal Courtroom 2B,Motion Hearing,Friday,23,Apr,9:30,AM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
-3952-11-19,chittenden,criminal,Family/Criminal Courtroom 2B,Motion Hearing,Friday,23,Apr,1:30,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
-2715-8-19,chittenden,criminal,Family/Criminal Courtroom 2B,Status Conference,Friday,23,Apr,1:30,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
-1166-4-20,chittenden,criminal,Family/Criminal Courtroom 2B,Status Conference,Friday,23,Apr,1:30,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
-4142-12-18,chittenden,criminal,Family/Criminal Courtroom 2B,Motion Hearing,Friday,23,Apr,2:30,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
-364-1-19,chittenden,criminal,Family/Criminal Courtroom 2B,Motion Hearing,Friday,23,Apr,2:30,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
-861-3-19,chittenden,criminal,Family/Criminal Courtroom 2B,Motion Hearing,Friday,23,Apr,2:30,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
-1560-7-20,chittenden,criminal,Family/Criminal Courtroom 2B,Status Conference,Friday,23,Apr,2:30,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
-1588-7-20,chittenden,criminal,Family/Criminal Courtroom 2B,Status Conference,Friday,23,Apr,2:30,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
-1980-8-20,chittenden,criminal,Family/Criminal Courtroom 2B,Status Conference,Friday,23,Apr,2:30,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
-1981-8-20,chittenden,criminal,Family/Criminal Courtroom 2B,Status Conference,Friday,23,Apr,2:30,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
-1984-8-20,chittenden,criminal,Family/Criminal Courtroom 2B,Status Conference,Friday,23,Apr,2:30,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
-1882-5-19,chittenden,criminal,Family/Criminal Courtroom 2B,Status Conference,Friday,23,Apr,3:30,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
-1893-5-19,chittenden,criminal,Family/Criminal Courtroom 2B,Status Conference,Friday,23,Apr,3:30,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
-2584-7-19,chittenden,criminal,Family/Criminal Courtroom 2B,Status Conference,Friday,23,Apr,3:30,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
-3316-9-19,chittenden,criminal,Family/Criminal Courtroom 2B,Status Conference,Friday,23,Apr,3:30,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
-3421-9-19,chittenden,criminal,Family/Criminal Courtroom 2B,Status Conference,Friday,23,Apr,3:30,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
-3438-9-19,chittenden,criminal,Family/Criminal Courtroom 2B,Status Conference,Friday,23,Apr,3:30,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
-824-3-19,chittenden,criminal,Family/Criminal Courtroom 3A,Pre Trial Conference,Friday,23,Apr,9:30,AM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
-2294-7-19,chittenden,criminal,Family/Criminal Courtroom 3A,Pre Trial Conference,Friday,23,Apr,10:30,AM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
-1698-7-20,chittenden,criminal,Family/Criminal Courtroom 3A,Pre Trial Conference,Friday,23,Apr,11:00,AM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
-1570-7-20,chittenden,criminal,Family/Criminal Courtroom 3A,Pre Trial Conference,Friday,23,Apr,11:30,AM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
-563-2-20,chittenden,criminal,Family/Criminal Courtroom 3A,Pre Trial Conference,Friday,23,Apr,1:00,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
-44-2-20,chittenden,civil suspension,Family/Criminal Courtroom 3A,Status Conference,Friday,23,Apr,1:00,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
-1457-6-20,chittenden,criminal,Family/Criminal Courtroom 3A,Status Conference,Friday,23,Apr,1:00,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
-1892-8-20,chittenden,criminal,Family/Criminal Courtroom 3A,Status Conference,Friday,23,Apr,1:00,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
 3814-10-16,chittenden,criminal,Family/Criminal Courtroom 3A,Status Conference,Monday,26,Apr,3:30,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
 1026-3-20,chittenden,criminal,Family/Criminal Courtroom 2A,Status Conference,Monday,26,Apr,8:30,AM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
 1188-4-20,chittenden,criminal,Family/Criminal Courtroom 2A,Status Conference,Monday,26,Apr,8:30,AM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
@@ -634,7 +559,6 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 1361-6-20,chittenden,criminal,Family/Criminal Courtroom 2A,Status Conference,Monday,26,Apr,1:00,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
 1558-7-20,chittenden,criminal,Family/Criminal Courtroom 2A,Status Conference,Monday,26,Apr,1:30,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
 1153-4-20,chittenden,criminal,Family/Criminal Courtroom 2A,Status Conference,Monday,26,Apr,2:00,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
-1967-8-20,chittenden,criminal,Family/Criminal Courtroom 2A,Status Conference,Monday,26,Apr,2:30,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
 1572-7-20,chittenden,criminal,Family/Criminal Courtroom 2A,Status Conference,Monday,26,Apr,3:00,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
 1485-6-20,chittenden,criminal,Family/Criminal Courtroom 2B,Status Conference,Monday,26,Apr,1:30,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
 1615-7-20,chittenden,criminal,Family/Criminal Courtroom 2B,Status Conference,Monday,26,Apr,1:30,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
@@ -1010,6 +934,10 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 1496-6-20,chittenden,criminal,Family/Criminal Courtroom 3A,Status Conference,Wednesday,16,Jun,2:00,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
 1713-7-20,chittenden,criminal,Family/Criminal Courtroom 3A,Status Conference,Wednesday,16,Jun,2:00,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
 1895-8-20,chittenden,criminal,Family/Criminal Courtroom 3A,Status Conference,Wednesday,16,Jun,2:00,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
+563-2-20,chittenden,criminal,Family/Criminal Courtroom 3A,Pre Trial Conference,Wednesday,16,Jun,2:30,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
+44-2-20,chittenden,civil suspension,Family/Criminal Courtroom 3A,Status Conference,Wednesday,16,Jun,2:30,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
+1457-6-20,chittenden,criminal,Family/Criminal Courtroom 3A,Status Conference,Wednesday,16,Jun,2:30,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
+1892-8-20,chittenden,criminal,Family/Criminal Courtroom 3A,Status Conference,Wednesday,16,Jun,2:30,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
 3249-9-19,chittenden,criminal,Family/Criminal Courtroom 2B,State of Vermont v.,Thursday,17,Jun,08:30,AM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
 448-1-20,chittenden,criminal,Family/Criminal Courtroom 2B,State of Vermont v.,Thursday,17,Jun,08:30,AM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
 965-3-20,chittenden,criminal,Family/Criminal Courtroom 2B,State of Vermont v.,Thursday,17,Jun,08:30,AM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
@@ -1058,21 +986,6 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 77-3-20,chittenden,civil suspension,Family/Criminal Courtroom 2B,Civil Suspension Preliminary Hearing,Thursday,24,Jun,8:30,AM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
 2258-6-19,chittenden,criminal,Family/Criminal Courtroom 3A,Criminal Miscellaneous Hearing,Tuesday,29,Jun,1:00,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
 973-3-19,chittenden,criminal,Family/Criminal Courtroom 2B,Change of Plea Hearing,Wednesday,30,Jun,1:00,PM,"32 Cherry Street, Suite 300 ", Burlington,05401,criminal
-322-8-19,chittenden,juvenile,Family/Criminal Courtroom 1B,Juvenile Confidential Hearing,Friday,23,Apr,8:30,AM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
-419-10-19,chittenden,juvenile,Family/Criminal Courtroom 1B,Juvenile Confidential Hearing,Friday,23,Apr,8:30,AM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
-539-12-19,chittenden,juvenile,Family/Criminal Courtroom 1B,Juvenile Confidential Hearing,Friday,23,Apr,8:30,AM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
-270-7-20,chittenden,domestic,Family Case Manager Conference Room,Case Management Conference Call,Friday,23,Apr,9:00,AM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
-484-8-19,chittenden,domestic,Family Case Manager Conference Room,Case Management Conference Call,Friday,23,Apr,9:15,AM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
-224-6-20,chittenden,domestic,Family Case Manager Conference Room,Case Management Conference Call,Friday,23,Apr,9:30,AM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
-486-8-19,chittenden,domestic,Family Case Manager Conference Room,Case Management Conference Call,Friday,23,Apr,9:45,AM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
-260-3-05,chittenden,domestic,Family Case Manager Conference Room,Case Management Conference,Friday,23,Apr,2:30,PM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
-157-4-20,chittenden,domestic,Family/Criminal Courtroom 1E,Magistrate Child Support Review Hearing,Friday,23,Apr,8:30,AM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
-474-7-18,chittenden,domestic,Family/Criminal Courtroom 1E,Magistrate Modification Hearing,Friday,23,Apr,9:00,AM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
-921-11-11,chittenden,domestic,Family/Criminal Courtroom 1E,Magistrate Enforcement Hearing,Friday,23,Apr,10:30,AM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
-502-9-19,chittenden,domestic,Family/Criminal Courtroom 1E,Magistrate Child Support Review Hearing,Friday,23,Apr,11:00,AM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
-85-2-20,chittenden,domestic,Family/Criminal Courtroom 1E,Magistrate Child Support Review Hearing,Friday,23,Apr,1:00,PM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
-260-7-20,chittenden,domestic,Family/Criminal Courtroom 1E,Magistrate Child Support Review Hearing,Friday,23,Apr,2:00,PM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
-227-6-20,chittenden,domestic,Family/Criminal Courtroom 1E,Magistrate Child Support Review Hearing,Friday,23,Apr,3:00,PM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
 197-7-20,chittenden,juvenile,Family/Criminal Courtroom 1A,Juvenile Confidential Hearing,Monday,26,Apr,9:00,AM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
 198-7-20,chittenden,juvenile,Family/Criminal Courtroom 1A,Juvenile Confidential Hearing,Monday,26,Apr,9:00,AM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
 199-7-20,chittenden,juvenile,Family/Criminal Courtroom 1A,Juvenile Confidential Hearing,Monday,26,Apr,9:00,AM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
@@ -1085,7 +998,6 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 485-6-12,chittenden,domestic,Family/Criminal Courtroom 1E,Magistrate Enforcement Hearing,Monday,26,Apr,9:30,AM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
 1007-12-12,chittenden,domestic,Family/Criminal Courtroom 1E,Magistrate Enforcement Hearing,Monday,26,Apr,10:00,AM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
 301-4-11,chittenden,domestic,Family/Criminal Courtroom 1E,Magistrate Enforcement Hearing,Monday,26,Apr,10:30,AM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
-718-12-19,chittenden,domestic,Family/Criminal Courtroom 1E,Magistrate Child Support Establishment Hearing,Monday,26,Apr,11:00,AM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
 360-4-01,chittenden,domestic,Family/Criminal Courtroom 1E,Magistrate Enforcement Hearing,Monday,26,Apr,1:00,PM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
 589-9-18,chittenden,domestic,Family/Criminal Courtroom 1E,Magistrate Child Support Modification Hearing,Monday,26,Apr,1:30,PM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
 403-6-09,chittenden,domestic,Family/Criminal Courtroom 1E,Magistrate Enforcement Hearing,Monday,26,Apr,2:30,PM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
@@ -1159,12 +1071,14 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 215-7-20,chittenden,juvenile,Family/Criminal Courtroom 1D,Confidential Hearing,Thursday,3,Jun,8:30,AM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
 236-8-20,chittenden,juvenile,Family/Criminal Courtroom 1D,Confidential Hearing,Thursday,3,Jun,2:00,PM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
 121-3-20,chittenden,domestic,Family/Criminal Courtroom 1B,Contested Dissolution Hearing,Thursday,3,Jun,1:00,PM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
+43-2-17,chittenden,domestic,Family/Criminal Courtroom 1B,Motion Hearing,Friday,4,Jun,9:00,AM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
 209-7-20,chittenden,juvenile,Family/Criminal Courtroom 1D,Juvenile Confidential Hearing,Friday,4,Jun,2:00,PM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
 535-7-16,chittenden,domestic,Family/Criminal Courtroom 1B,Contempt Hearing,Tuesday,8,Jun,1:30,PM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
 316-4-14,chittenden,domestic,Family/Criminal Courtroom 1B,Contempt Hearing,Tuesday,8,Jun,2:30,PM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
 351-8-20,chittenden,domestic,Family Case Manager Conference Room,Case Management Conference Call,Thursday,10,Jun,9:30,AM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
 352-8-20,chittenden,domestic,Family Case Manager Conference Room,Case Management Conference Call,Thursday,10,Jun,10:00,AM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
 87-1-13,chittenden,domestic,Family/Criminal Courtroom 1B,Motion Hearing,Friday,11,Jun,9:00,AM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
+480-7-18,chittenden,domestic,Family/Criminal Courtroom 1B,Motion Hearing,Friday,11,Jun,10:00,AM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
 57-2-20,chittenden,domestic,Family/Criminal Courtroom 1D,Status Conference,Monday,14,Jun,1:00,PM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
 565-12-18,chittenden,juvenile,Family/Criminal Courtroom 1A,Juvenile Confidential Hearing,Monday,14,Jun,8:30,AM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
 566-12-18,chittenden,juvenile,Family/Criminal Courtroom 1A,Juvenile Confidential Hearing,Monday,14,Jun,8:30,AM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
@@ -1176,6 +1090,7 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 97-3-20,chittenden,juvenile,Family/Criminal Courtroom 1A,Juvenile Confidential Hearing,Tuesday,15,Jun,2:00,PM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
 91-2-17,chittenden,domestic,Family/Criminal Courtroom 1B,Motion Hearing,Wednesday,16,Jun,1:00,PM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
 229-5-18,chittenden,juvenile,Family/Criminal Courtroom 1A,Juvenile Confidential Hearing,Wednesday,16,Jun,8:30,AM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
+300-8-20,chittenden,domestic,Family Case Manager Conference Room,Case Management Conference Call,Thursday,17,Jun,9:30,AM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
 269-4-12,chittenden,domestic,Family/Criminal Courtroom 1B,Contempt Hearing,Tuesday,22,Jun,1:00,PM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
 81-3-20,chittenden,juvenile,Family/Criminal Courtroom 1A,Juvenile Confidential Hearing,Tuesday,22,Jun,2:00,PM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
 82-3-20,chittenden,juvenile,Family/Criminal Courtroom 1A,Juvenile Confidential Hearing,Tuesday,22,Jun,2:00,PM,"32 Cherry Street, Suite 200 ", Burlington,05401,family
@@ -1189,8 +1104,6 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 41-12-20,essex,small claims,Essex Superior Court Courtroom 1,Small Claims Merits Hearing,Friday,30,Apr,9:00,AM,P.O. Box 75 , Guildhall,05905,civil
 40-10-19,essex,civil,Essex Superior Court Courtroom 1,Motion Hearing,Friday,30,Apr,1:00,PM,P.O. Box 75 , Guildhall,05905,civil
 14-3-19,essex,small claims,Essex Superior Court Courtroom 1,Financial Disclosure Hearing,Friday,30,Apr,2:00,PM,P.O. Box 75 , Guildhall,05905,civil
-1439-10-19,franklin,criminal,Franklin Family/Criminal Courtroom #2,Motion Hearing,Friday,23,Apr,8:30,AM,36 Lake Street , St. Albans,05478,criminal
-1605-12-19,franklin,criminal,Franklin Family/Criminal Courtroom #2,Change of Plea Hearing,Friday,23,Apr,1:30,PM,36 Lake Street , St. Albans,05478,criminal
 842-6-19,franklin,criminal,Franklin Family/Criminal Courtroom #2,Motion Hearing,Monday,26,Apr,2:00,PM,36 Lake Street , St. Albans,05478,criminal
 868-7-17,franklin,criminal,Franklin Family/Criminal Courtroom #2,Motion Hearing,Monday,26,Apr,3:00,PM,36 Lake Street , St. Albans,05478,criminal
 1786-12-18,franklin,criminal,Franklin Family/Criminal Courtroom #2,Motion Hearing,Monday,26,Apr,3:00,PM,36 Lake Street , St. Albans,05478,criminal
@@ -1208,19 +1121,6 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 704-5-19,franklin,criminal,Franklin Family/Criminal Courtroom #1,State of Vermont v.,Thursday,29,Apr,10:00,AM,36 Lake Street , St. Albans,05478,criminal
 353-3-17,franklin,criminal,Franklin Family/Criminal Courtroom #2,Motion Hearing,Friday,30,Apr,8:30,AM,36 Lake Street , St. Albans,05478,criminal
 368-4-20,franklin,criminal,Franklin Family/Criminal Courtroom #2,Change of Plea Hearing,Friday,30,Apr,9:30,AM,36 Lake Street , St. Albans,05478,criminal
-71-6-20,franklin,juvenile,Franklin Family/Criminal Courtroom #3,Juvenile Confidential Hearing,Friday,23,Apr,8:30,AM,36 Lake Street , St. Albans,05478,family
-43-2-19,franklin,juvenile,Franklin Family/Criminal Courtroom #3,Juvenile Confidential Hearing,Friday,23,Apr,8:30,AM,36 Lake Street , St. Albans,05478,family
-44-2-19,franklin,juvenile,Franklin Family/Criminal Courtroom #3,Juvenile Confidential Hearing,Friday,23,Apr,8:30,AM,36 Lake Street , St. Albans,05478,family
-120-8-20,franklin,juvenile,Franklin Family/Criminal Courtroom #3,Juvenile Confidential Hearing,Friday,23,Apr,9:00,AM,36 Lake Street , St. Albans,05478,family
-118-8-20,franklin,juvenile,Franklin Family/Criminal Courtroom #3,Juvenile Confidential Hearing,Friday,23,Apr,9:00,AM,36 Lake Street , St. Albans,05478,family
-119-8-20,franklin,juvenile,Franklin Family/Criminal Courtroom #3,Juvenile Confidential Hearing,Friday,23,Apr,9:00,AM,36 Lake Street , St. Albans,05478,family
-188-9-20,franklin,domestic,Franklin Family/Criminal Courtroom #2,Uncontested Dissolution Hearing,Friday,23,Apr,8:30,AM,36 Lake Street , St. Albans,05478,family
-84-4-20,franklin,domestic,Franklin Family/Criminal Courtroom #2,Parental Rights & Responsibilities Establishment H,Friday,23,Apr,9:00,AM,36 Lake Street , St. Albans,05478,family
-284-10-17,franklin,domestic,Franklin Family/Criminal Courtroom #2,Motion Hearing,Friday,23,Apr,10:00,AM,36 Lake Street , St. Albans,05478,family
-189-9-20,franklin,domestic,Franklin Family/Criminal Courtroom #2,Uncontested Dissolution Hearing,Friday,23,Apr,11:30,AM,36 Lake Street , St. Albans,05478,family
-188-10-20,franklin,juvenile,Franklin Family/Criminal Courtroom #2,Juvenile Confidential Hearing,Friday,23,Apr,1:00,PM,36 Lake Street , St. Albans,05478,family
-189-10-20,franklin,juvenile,Franklin Family/Criminal Courtroom #2,Juvenile Confidential Hearing,Friday,23,Apr,1:00,PM,36 Lake Street , St. Albans,05478,family
-92-6-14,franklin,juvenile,Franklin Family/Criminal Courtroom #2,Juvenile Confidential Hearing,Friday,23,Apr,1:00,PM,36 Lake Street , St. Albans,05478,family
 214-12-20,franklin,juvenile,Franklin Family/Criminal Courtroom #3,Juvenile Confidential Hearing,Monday,26,Apr,8:30,AM,36 Lake Street , St. Albans,05478,family
 74-5-15,franklin,juvenile,Franklin Family/Criminal Courtroom #3,Juvenile Confidential Hearing,Monday,26,Apr,9:00,AM,36 Lake Street , St. Albans,05478,family
 238-11-20,franklin,domestic,Franklin Family/Criminal Courtroom #2,Parental Rights & Responsibilities Establishment H,Monday,26,Apr,1:00,PM,36 Lake Street , St. Albans,05478,family
@@ -1258,6 +1158,8 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 219-10-20,franklin,domestic,Franklin Case Manager Conference Room,Case Management Conference,Tuesday,1,Jun,8:30,AM,36 Lake Street , St. Albans,05478,family
 295-9-13,franklin,domestic,Franklin Case Manager Conference Room,Case Management Conference,Tuesday,1,Jun,10:00,AM,36 Lake Street , St. Albans,05478,family
 245-12-20,franklin,domestic,Franklin Case Manager Conference Room,Case Management Conference,Tuesday,1,Jun,1:00,PM,36 Lake Street , St. Albans,05478,family
+270-9-15,franklin,domestic,Franklin Family/Criminal Courtroom #2,Magistrate Miscellaneous Hearing,Wednesday,2,Jun,8:30,AM,36 Lake Street , St. Albans,05478,family
+303-10-17,franklin,domestic,Franklin Family/Criminal Courtroom #2,Magistrate Miscellaneous Hearing,Wednesday,2,Jun,10:00,AM,36 Lake Street , St. Albans,05478,family
 240-11-20,franklin,domestic,Franklin Case Manager Conference Room,Case Management Conference,Wednesday,2,Jun,8:30,AM,36 Lake Street , St. Albans,05478,family
 145-7-20,franklin,domestic,Franklin Case Manager Conference Room,Case Management Conference,Wednesday,2,Jun,1:00,PM,36 Lake Street , St. Albans,05478,family
 227-11-20,franklin,domestic,Franklin Case Manager Conference Room,Case Management Conference,Wednesday,2,Jun,2:30,PM,36 Lake Street , St. Albans,05478,family
@@ -1267,6 +1169,10 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 200-10-20,franklin,domestic,Franklin Case Manager Conference Room,Case Management Conference OCS,Thursday,10,Jun,8:30,AM,36 Lake Street , St. Albans,05478,family
 262-12-20,franklin,domestic,Franklin Case Manager Conference Room,Case Management Conference,Tuesday,15,Jun,8:30,AM,36 Lake Street , St. Albans,05478,family
 44-2-09,franklin,domestic,Franklin Family/Criminal Courtroom #3,Magistrate Child Support Review Hearing,Thursday,17,Jun,8:30,AM,36 Lake Street , St. Albans,05478,family
+84-4-20,franklin,domestic,Franklin Case Manager Conference Room,Case Management Conference,Tuesday,22,Jun,10:00,AM,36 Lake Street , St. Albans,05478,family
+307-9-11,franklin,domestic,Franklin Family/Criminal Courtroom #3,Magistrate Child Support Review Hearing,Thursday,24,Jun,8:30,AM,36 Lake Street , St. Albans,05478,family
+69-3-11,franklin,domestic,Franklin Family/Criminal Courtroom #3,Magistrate Child Support Review Hearing,Thursday,24,Jun,9:00,AM,36 Lake Street , St. Albans,05478,family
+365-12-01,franklin,domestic,Franklin Family/Criminal Courtroom #3,Magistrate Child Support Review Hearing,Thursday,24,Jun,9:30,AM,36 Lake Street , St. Albans,05478,family
 244-12-20,franklin,domestic,Franklin Case Manager Conference Room,Case Management Conference,Tuesday,29,Jun,8:30,AM,36 Lake Street , St. Albans,05478,family
 115-3-19,franklin,small claims,Franklin Civil/Probate Courtroom #1,Contempt Hearing,Tuesday,27,Apr,8:30,AM,17 Church Street , St. Albans,05478,civil
 369-10-18,franklin,small claims,Franklin Civil/Probate Courtroom #1,Contempt Hearing,Tuesday,27,Apr,9:00,AM,17 Church Street , St. Albans,05478,civil
@@ -1337,13 +1243,6 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 237-6-20,lamoille,criminal,Lamoille Superior Courtroom #2,Motion Hearing,Wednesday,23,Jun,9:10,AM,P.O. Box 570 , Hyde Park,05655,criminal
 52-6-20,lamoille,civil suspension,Lamoille Superior Courtroom #2,Motion Hearing,Wednesday,30,Jun,9:00,AM,P.O. Box 570 , Hyde Park,05655,criminal
 241-6-20,lamoille,criminal,Lamoille Superior Courtroom #2,Motion Hearing,Wednesday,30,Jun,9:00,AM,P.O. Box 570 , Hyde Park,05655,criminal
-184-10-14,lamoille,domestic,Lamoille Superior Courtroom #1,Magistrate Child Support Review Hearing,Friday,23,Apr,8:30,AM,P.O. Box 570 , Hyde Park,05655,family
-115-9-18,lamoille,domestic,Lamoille Superior Courtroom #1,Motion Hearing,Friday,23,Apr,10:30,AM,P.O. Box 570 , Hyde Park,05655,family
-75-6-16,lamoille,domestic,Lamoille Superior Courtroom #1,Magistrate Enforcement Hearing,Friday,23,Apr,11:30,AM,P.O. Box 570 , Hyde Park,05655,family
-43-3-19,lamoille,domestic,Lamoille Superior Courtroom #1,Magistrate Child Support Modification Hearing,Friday,23,Apr,1:00,PM,P.O. Box 570 , Hyde Park,05655,family
-74-8-20,lamoille,domestic,Lamoille Superior Courtroom #1,Magistrate Child Support Modification Hearing,Friday,23,Apr,1:00,PM,P.O. Box 570 , Hyde Park,05655,family
-110-11-20,lamoille,domestic,Lamoille Superior Courtroom #1,Magistrate Child Support Establishment Hearing,Friday,23,Apr,2:00,PM,P.O. Box 570 , Hyde Park,05655,family
-24-2-07,lamoille,domestic,Lamoille Superior Courtroom #1,Magistrate Enforcement Hearing,Friday,23,Apr,3:00,PM,P.O. Box 570 , Hyde Park,05655,family
 39-3-19,lamoille,domestic,Lamoille Case Manager Conference Room,Case Management Conference OCS,Monday,26,Apr,8:30,AM,P.O. Box 570 , Hyde Park,05655,family
 156-12-18,lamoille,domestic,Lamoille Case Manager Conference Room,Case Management Conference,Monday,26,Apr,9:30,AM,P.O. Box 570 , Hyde Park,05655,family
 64-4-12,lamoille,domestic,Lamoille Case Manager Conference Room,Case Management Conference,Monday,26,Apr,10:30,AM,P.O. Box 570 , Hyde Park,05655,family
@@ -1385,6 +1284,7 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 151-12-19,lamoille,domestic,Lamoille Superior Courtroom #1,Magistrate Child Support Establishment Hearing,Friday,2,Jul,1:00,PM,P.O. Box 570 , Hyde Park,05655,family
 162-10-07,lamoille,domestic,Lamoille Superior Courtroom #1,Magistrate Child Support Deviation Hearing,Friday,9,Jul,2:00,PM,P.O. Box 570 , Hyde Park,05655,family
 16-1-20,lamoille,domestic,Lamoille Superior Courtroom #2,Evidentiary Hearing,Friday,9,Jul,1:00,PM,P.O. Box 570 , Hyde Park,05655,family
+75-6-16,lamoille,domestic,Lamoille Superior Courtroom #1,Magistrate Enforcement Hearing,Friday,23,Jul,10:30,AM,P.O. Box 570 , Hyde Park,05655,family
 103-8-19,lamoille,domestic,Lamoille Superior Courtroom #1,Magistrate Child Support Review Hearing,Friday,23,Jul,1:00,PM,P.O. Box 570 , Hyde Park,05655,family
 51-5-20,lamoille,civil,Lamoille Superior Courtroom #2,Status Conference,Thursday,17,Jun,9:00,AM,PO Box 570 , Hyde Park,05655,civil
 56-3-19,lamoille,small claims,Lamoille Superior Courtroom #1,Small Claims Merits Hearing,Monday,21,Jun,9:00,AM,PO Box 570 , Hyde Park,05655,civil
@@ -1392,6 +1292,7 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 149-7-19,lamoille,small claims,Lamoille Superior Courtroom #1,Small Claims Merits Hearing,Monday,21,Jun,11:00,AM,PO Box 570 , Hyde Park,05655,civil
 196-10-19,lamoille,small claims,Lamoille Superior Courtroom #1,Small Claims Merits Hearing,Monday,21,Jun,1:00,PM,PO Box 570 , Hyde Park,05655,civil
 12-1-20,lamoille,small claims,Lamoille Superior Courtroom #1,Small Claims Trustee Process Hearing,Monday,21,Jun,2:00,PM,PO Box 570 , Hyde Park,05655,civil
+58-6-17,lamoille,small claims,Lamoille Superior Courtroom #1,Small Claims Trustee Process Hearing,Monday,21,Jun,3:30,PM,PO Box 570 , Hyde Park,05655,civil
 104-7-18,lamoille,civil,Lamoille Superior Courtroom #2,Pre Trial Conference,Thursday,29,Jul,9:00,AM,PO Box 570 , Hyde Park,05655,civil
 500-12-19,orange,criminal,Courtroom 1,Calendar Call,Wednesday,28,Apr,10:00,AM,5 Court Street , Chelsea,05038,criminal
 21-1-20,orange,criminal,Courtroom 1,Confidential Hearing,Wednesday,28,Apr,10:00,AM,5 Court Street , Chelsea,05038,criminal
@@ -1405,6 +1306,7 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 101-8-16,orange,domestic,Courtroom 2,Magistrate Enforcement Hearing,Tuesday,27,Apr,2:00,PM,5 Court Street , Chelsea,05038,family
 95-6-19,orange,domestic,Courtroom 2,Magistrate Miscellaneous Hearing,Tuesday,27,Apr,3:00,PM,5 Court Street , Chelsea,05038,family
 121-8-19,orange,domestic,Courtroom 1,Contested Dissolution Hearing,Thursday,29,Apr,9:00,AM,5 Court Street , Chelsea,05038,family
+123-9-17,orange,domestic,Family Case Manager Conference Room,Case Management Conference,Tuesday,1,Jun,2:00,PM,5 Court Street , Chelsea,05038,family
 14-1-19,orange,domestic,Courtroom 1,Pre Trial Conference,Tuesday,1,Jun,1:00,PM,5 Court Street , Chelsea,05038,family
 157-11-15,orange,domestic,Courtroom 1,Motion Hearing,Tuesday,1,Jun,1:30,PM,5 Court Street , Chelsea,05038,family
 106-6-11,orange,domestic,Courtroom 2,Magistrate Modification Hearing,Thursday,10,Jun,1:00,PM,5 Court Street , Chelsea,05038,family
@@ -1430,6 +1332,7 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 185-11-06,orange,domestic,Courtroom 2,Magistrate Contempt Hearing,Tuesday,29,Jun,1:00,PM,5 Court Street , Chelsea,05038,family
 83-5-13,orange,domestic,Courtroom 2,Magistrate Enforcement Hearing,Tuesday,29,Jun,2:00,PM,5 Court Street , Chelsea,05038,family
 173-12-19,orange,domestic,Courtroom 2,Magistrate Enforcement Hearing,Tuesday,29,Jun,3:00,PM,5 Court Street , Chelsea,05038,family
+14-1-20,orange,domestic,Courtroom 1,Telephone Status Conference,Tuesday,29,Jun,10:30,AM,5 Court Street , Chelsea,05038,family
 109-7-11,orange,domestic,Courtroom 2,Magistrate Child Support Modification Hearing,Thursday,8,Jul,1:00,PM,5 Court Street , Chelsea,05038,family
 11-1-15,orange,domestic,Courtroom 2,Magistrate Child Support Modification Hearing,Thursday,8,Jul,2:00,PM,5 Court Street , Chelsea,05038,family
 78-5-05,orange,domestic,Courtroom 2,Magistrate Enforcement Hearing,Thursday,8,Jul,3:00,PM,5 Court Street , Chelsea,05038,family
@@ -1446,8 +1349,6 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 132-8-14,orange,domestic,Courtroom 2,Magistrate Child Support Modification Hearing,Tuesday,24,Aug,9:00,AM,5 Court Street , Chelsea,05038,family
 172-10-02,orange,domestic,Courtroom 2,Magistrate Contempt Hearing,Tuesday,24,Aug,10:00,AM,5 Court Street , Chelsea,05038,family
 132-6-13,orange,civil,Courtroom 1,Motion Hearing,Tuesday,27,Apr,2:30,PM,5 Court Street , Chelsea,05038,civil
-71-3-16,orange,probate,Courtroom 2,Show Cause Hearing,Friday,23,Apr,9:00,AM,5 Court Street , Chelsea,05038,probate
-196-7-19,orange,probate,Courtroom 2,Probate Hearing,Friday,23,Apr,9:30,AM,5 Court Street , Chelsea,05038,probate
 200-8-18,orange,probate,Courtroom 2,Motion Hearing,Friday,30,Apr,9:30,AM,5 Court Street , Chelsea,05038,probate
 233-9-19,orange,probate,Courtroom 2,Telephone Status Conference,Friday,30,Apr,10:30,AM,5 Court Street , Chelsea,05038,probate
 118-7-13,orange,probate,Courtroom 2,Motion Hearing,Friday,30,Apr,11:15,AM,5 Court Street , Chelsea,05038,probate
@@ -1469,11 +1370,6 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 603-10-20,orleans,criminal,Orleans Courtroom 2 - Building 217,Status Conference,Tuesday,1,Jun,1:30,PM,217 Main Street , Newport,05855,criminal
 606-10-20,orleans,criminal,Orleans Courtroom 2 - Building 217,Status Conference,Tuesday,1,Jun,1:30,PM,217 Main Street , Newport,05855,criminal
 635-10-20,orleans,criminal,Orleans Courtroom 2 - Building 217,Status Conference,Tuesday,1,Jun,1:30,PM,217 Main Street , Newport,05855,criminal
-99-8-19,orleans,juvenile,Orleans Courtroom 1 - Building 247,Juvenile Confidential Hearing,Friday,23,Apr,8:30,AM,"247 Main St., Suite 1 ", Newport,05855,family
-100-8-19,orleans,juvenile,Orleans Courtroom 1 - Building 247,Juvenile Confidential Hearing,Friday,23,Apr,8:30,AM,"247 Main St., Suite 1 ", Newport,05855,family
-92-11-20,orleans,juvenile,Orleans Courtroom 1 - Building 247,Juvenile Confidential Hearing,Friday,23,Apr,9:00,AM,"247 Main St., Suite 1 ", Newport,05855,family
-111-12-20,orleans,juvenile,Orleans Courtroom 1 - Building 247,Juvenile Confidential Hearing,Friday,23,Apr,1:00,PM,"247 Main St., Suite 1 ", Newport,05855,family
-112-12-20,orleans,juvenile,Orleans Courtroom 1 - Building 247,Juvenile Confidential Hearing,Friday,23,Apr,1:00,PM,"247 Main St., Suite 1 ", Newport,05855,family
 77-6-20,orleans,domestic,Orleans Courtroom 1 - Building 217,Evidentiary Hearing,Monday,26,Apr,9:00,AM,"247 Main St., Suite 1 ", Newport,05855,family
 115-9-20,orleans,domestic,Orleans Courtroom 1 - Building 217,Uncontested Dissolution Hearing,Monday,26,Apr,10:00,AM,"247 Main St., Suite 1 ", Newport,05855,family
 67-6-20,orleans,domestic,Orleans Courtroom 1 - Building 217,Status Conference/Final Uncontested Hearing,Monday,26,Apr,10:15,AM,"247 Main St., Suite 1 ", Newport,05855,family
@@ -1514,6 +1410,8 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 121-9-20,orleans,domestic,Orleans Courtroom 1 - Building 247,Magistrate Child Support Establishment Hearing,Wednesday,2,Jun,10:00,AM,"247 Main St., Suite 1 ", Newport,05855,family
 202-9-12,orleans,domestic,Orleans Courtroom 1 - Building 247,Magistrate Modification Hearing,Wednesday,2,Jun,11:00,AM,"247 Main St., Suite 1 ", Newport,05855,family
 101-8-20,orleans,domestic,Orleans Courtroom 1 - Building 247,Magistrate Child Support Establishment Hearing,Wednesday,2,Jun,1:00,PM,"247 Main St., Suite 1 ", Newport,05855,family
+69-6-20,orleans,domestic,Orleans Family Case Manager Conference Room,Case Management Conference OCS,Wednesday,2,Jun,9:00,AM,"247 Main St., Suite 1 ", Newport,05855,family
+191-10-04,orleans,domestic,Orleans Family Case Manager Conference Room,Case Management Conference OCS,Wednesday,2,Jun,10:00,AM,"247 Main St., Suite 1 ", Newport,05855,family
 40-3-15,orleans,domestic,Orleans Courtroom 2 - Building 217,Motion Hearing,Monday,7,Jun,9:00,AM,"247 Main St., Suite 1 ", Newport,05855,family
 186-11-14,orleans,domestic,Orleans Courtroom 1 - Building 247,Magistrate Modification Hearing,Wednesday,9,Jun,1:00,PM,"247 Main St., Suite 1 ", Newport,05855,family
 71-4-19,orleans,domestic,Orleans Courtroom 1 - Building 247,Status Conference,Wednesday,9,Jun,2:00,PM,"247 Main St., Suite 1 ", Newport,05855,family
@@ -1679,14 +1577,6 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 1165-10-19,rutland,criminal,Family/Criminal Courtroom 1 - Third Floor,Status Conference,Monday,19,Jul,9:15,AM,9 Merchants Row , Rutland,05701,criminal
 111-11-19,rutland,civil suspension,Family/Criminal Courtroom 1 - Third Floor,Status Conference,Monday,19,Jul,9:15,AM,9 Merchants Row , Rutland,05701,criminal
 388-6-20,rutland,criminal,Family/Criminal Courtroom 1 - Third Floor,Status Conference,Monday,26,Jul,9:00,AM,9 Merchants Row , Rutland,05701,criminal
-87-7-20,rutland,juvenile,Family/Criminal Courtroom 3 - Second Floor,Juvenile Confidential Hearing,Friday,23,Apr,9:30,AM,9 Merchants Row , Rutland,05701,family
-161-9-19,rutland,juvenile,Family/Criminal Courtroom 3 - Second Floor,Juvenile Confidential Hearing,Friday,23,Apr,10:30,AM,9 Merchants Row , Rutland,05701,family
-48-4-20,rutland,juvenile,Family/Criminal Courtroom 3 - Second Floor,Juvenile Confidential Hearing,Friday,23,Apr,11:00,AM,9 Merchants Row , Rutland,05701,family
-49-4-20,rutland,juvenile,Family/Criminal Courtroom 3 - Second Floor,Juvenile Confidential Hearing,Friday,23,Apr,11:00,AM,9 Merchants Row , Rutland,05701,family
-50-4-20,rutland,juvenile,Family/Criminal Courtroom 3 - Second Floor,Juvenile Confidential Hearing,Friday,23,Apr,11:00,AM,9 Merchants Row , Rutland,05701,family
-87-5-19,rutland,juvenile,Family/Criminal Courtroom 3 - Second Floor,Juvenile Confidential Hearing,Friday,23,Apr,1:00,PM,9 Merchants Row , Rutland,05701,family
-98-5-19,rutland,juvenile,Family/Criminal Courtroom 3 - Second Floor,Juvenile Confidential Hearing,Friday,23,Apr,1:00,PM,9 Merchants Row , Rutland,05701,family
-49-2-18,rutland,domestic,Family Case Manager Conference Room,Case Management Conference,Friday,23,Apr,2:00,PM,9 Merchants Row , Rutland,05701,family
 297-6-09,rutland,domestic,Family Case Manager Conference Room,Case Management Conference OCS,Monday,26,Apr,9:00,AM,9 Merchants Row , Rutland,05701,family
 83-3-04,rutland,domestic,Family Case Manager Conference Room,Case Management Conference OCS,Monday,26,Apr,1:00,PM,9 Merchants Row , Rutland,05701,family
 393-11-19,rutland,domestic,Family/Criminal Courtroom 3 - Second Floor,Motion Hearing,Tuesday,27,Apr,3:15,PM,9 Merchants Row , Rutland,05701,family
@@ -1696,7 +1586,6 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 14-1-20,rutland,domestic,Family/Criminal Courtroom 3 - Second Floor,Motion Hearing,Wednesday,28,Apr,1:15,PM,9 Merchants Row , Rutland,05701,family
 459-10-11,rutland,domestic,Family/Criminal Courtroom 3 - Second Floor,Motion Hearing,Wednesday,28,Apr,3:00,PM,9 Merchants Row , Rutland,05701,family
 139-8-19,rutland,juvenile,Family/Criminal Courtroom 3 - Second Floor,Juvenile Confidential Hearing,Thursday,29,Apr,11:30,AM,9 Merchants Row , Rutland,05701,family
-120-6-18,rutland,juvenile,Family/Criminal Courtroom 3 - Second Floor,Juvenile Confidential Hearing,Friday,30,Apr,1:30,PM,9 Merchants Row , Rutland,05701,family
 52-2-19,rutland,domestic,Family/Criminal Courtroom 1 - Second Floor,Magistrate Child Support Establishment Hearing,Friday,30,Apr,9:00,AM,9 Merchants Row , Rutland,05701,family
 315-8-14,rutland,domestic,Family/Criminal Courtroom 1 - Second Floor,Magistrate Child Support Modification Hearing,Friday,30,Apr,10:00,AM,9 Merchants Row , Rutland,05701,family
 393-11-19,rutland,domestic,Family/Criminal Courtroom 1 - Second Floor,Magistrate Child Support Establishment Hearing,Friday,30,Apr,11:00,AM,9 Merchants Row , Rutland,05701,family
@@ -1705,6 +1594,7 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 111-3-20,rutland,domestic,Family/Criminal Courtroom 1 - Second Floor,Magistrate Child Support Review Hearing,Tuesday,1,Jun,1:00,PM,9 Merchants Row , Rutland,05701,family
 374-11-18,rutland,domestic,Family/Criminal Courtroom 3 - Second Floor,Motion Hearing,Wednesday,2,Jun,9:15,AM,9 Merchants Row , Rutland,05701,family
 39-1-20,rutland,domestic,Family/Criminal Courtroom 3 - Second Floor,Contested Dissolution Hearing,Wednesday,2,Jun,1:00,PM,9 Merchants Row , Rutland,05701,family
+87-7-20,rutland,juvenile,Family/Criminal Courtroom 3 - Second Floor,Juvenile Confidential Hearing,Thursday,3,Jun,9:30,AM,9 Merchants Row , Rutland,05701,family
 94-8-20,rutland,juvenile,Family/Criminal Courtroom 3 - Second Floor,Juvenile Confidential Hearing,Thursday,3,Jun,10:00,AM,9 Merchants Row , Rutland,05701,family
 200-11-18,rutland,juvenile,Family/Criminal Courtroom 3 - Second Floor,Juvenile Confidential Hearing,Friday,4,Jun,9:00,AM,9 Merchants Row , Rutland,05701,family
 192-8-20,rutland,domestic,Family Case Manager Conference Room,Case Management Conference,Friday,4,Jun,9:00,AM,9 Merchants Row , Rutland,05701,family
@@ -1904,6 +1794,8 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 1006-8-16,washington,criminal,Terry Trono Courtroom - Barre,Motion Hearing,Wednesday,28,Apr,8:45,AM,255 North Main Street , Barre,05641,criminal
 1284-11-20,washington,criminal,Terry Trono Courtroom - Barre,Hospitalization Hearing,Wednesday,28,Apr,9:00,AM,255 North Main Street , Barre,05641,criminal
 1399-12-20,washington,criminal,Terry Trono Courtroom - Barre,Hospitalization Hearing,Wednesday,28,Apr,9:00,AM,255 North Main Street , Barre,05641,criminal
+1743-7-20,chittenden,criminal,Terry Trono Courtroom - Barre,Status Conference,Wednesday,28,Apr,10:00,AM,255 North Main Street , Barre,05641,criminal
+718-7-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Wednesday,28,Apr,10:00,AM,255 North Main Street , Barre,05641,criminal
 917-9-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Wednesday,28,Apr,1:30,PM,255 North Main Street , Barre,05641,criminal
 1251-11-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Wednesday,28,Apr,1:30,PM,255 North Main Street , Barre,05641,criminal
 1358-12-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Wednesday,28,Apr,1:30,PM,255 North Main Street , Barre,05641,criminal
@@ -1913,6 +1805,21 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 51-1-21,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Wednesday,28,Apr,1:31,PM,255 North Main Street , Barre,05641,criminal
 1396-12-20,washington,criminal,Terry Trono Courtroom - Barre,Confidential Hearing,Wednesday,28,Apr,1:46,PM,255 North Main Street , Barre,05641,criminal
 1172-10-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Wednesday,28,Apr,1:51,PM,255 North Main Street , Barre,05641,criminal
+114-1-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Wednesday,28,Apr,1:56,PM,255 North Main Street , Barre,05641,criminal
+1423-12-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Wednesday,28,Apr,1:57,PM,255 North Main Street , Barre,05641,criminal
+490-6-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Wednesday,28,Apr,1:58,PM,255 North Main Street , Barre,05641,criminal
+1242-11-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Wednesday,28,Apr,1:59,PM,255 North Main Street , Barre,05641,criminal
+583-7-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Wednesday,28,Apr,2:00,PM,255 North Main Street , Barre,05641,criminal
+579-7-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Wednesday,28,Apr,2:01,PM,255 North Main Street , Barre,05641,criminal
+1392-12-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Wednesday,28,Apr,2:02,PM,255 North Main Street , Barre,05641,criminal
+79-1-21,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Wednesday,28,Apr,2:02,PM,255 North Main Street , Barre,05641,criminal
+1391-12-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Wednesday,28,Apr,2:03,PM,255 North Main Street , Barre,05641,criminal
+869-8-20,washington,criminal,Terry Trono Courtroom - Barre,Change of Plea Hearing,Wednesday,28,Apr,2:04,PM,255 North Main Street , Barre,05641,criminal
+609-5-19,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Wednesday,28,Apr,2:34,PM,255 North Main Street , Barre,05641,criminal
+1470-10-19,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Wednesday,28,Apr,2:34,PM,255 North Main Street , Barre,05641,criminal
+1696-12-19,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Wednesday,28,Apr,2:34,PM,255 North Main Street , Barre,05641,criminal
+671-7-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Wednesday,28,Apr,2:35,PM,255 North Main Street , Barre,05641,criminal
+35-1-21,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Wednesday,28,Apr,2:36,PM,255 North Main Street , Barre,05641,criminal
 969-9-17,washington,criminal,Terry Trono Courtroom - Barre,VOP Rule 5 Hearing,Thursday,29,Apr,8:30,AM,255 North Main Street , Barre,05641,criminal
 683-6-18,washington,criminal,Terry Trono Courtroom - Barre,VOP Rule 5 Hearing,Thursday,29,Apr,8:30,AM,255 North Main Street , Barre,05641,criminal
 340-3-19,washington,criminal,Terry Trono Courtroom - Barre,VOP Rule 5 Hearing,Thursday,29,Apr,8:30,AM,255 North Main Street , Barre,05641,criminal
@@ -1928,6 +1835,33 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 1354-12-20,washington,criminal,Terry Trono Courtroom - Barre,Competency Hearing,Thursday,29,Apr,1:30,PM,255 North Main Street , Barre,05641,criminal
 104-1-20,washington,criminal,Terry Trono Courtroom - Barre,Competency Hearing,Thursday,29,Apr,1:30,PM,255 North Main Street , Barre,05641,criminal
 417-5-20,washington,criminal,Terry Trono Courtroom - Barre,Competency Hearing,Thursday,29,Apr,1:30,PM,255 North Main Street , Barre,05641,criminal
+913-9-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Thursday,29,Apr,1:45,PM,255 North Main Street , Barre,05641,criminal
+62-1-21,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Thursday,29,Apr,1:45,PM,255 North Main Street , Barre,05641,criminal
+661-7-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Thursday,29,Apr,1:50,PM,255 North Main Street , Barre,05641,criminal
+28-1-21,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Thursday,29,Apr,1:55,PM,255 North Main Street , Barre,05641,criminal
+596-7-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Thursday,29,Apr,2:00,PM,255 North Main Street , Barre,05641,criminal
+1447-10-19,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Thursday,29,Apr,2:05,PM,255 North Main Street , Barre,05641,criminal
+881-8-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Thursday,29,Apr,2:10,PM,255 North Main Street , Barre,05641,criminal
+1093-10-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Thursday,29,Apr,2:15,PM,255 North Main Street , Barre,05641,criminal
+536-6-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Thursday,29,Apr,2:20,PM,255 North Main Street , Barre,05641,criminal
+40-6-20,washington,civil suspension,Terry Trono Courtroom - Barre,Status Conference,Thursday,29,Apr,2:20,PM,255 North Main Street , Barre,05641,criminal
+744-8-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Thursday,29,Apr,2:25,PM,255 North Main Street , Barre,05641,criminal
+70-9-20,washington,civil suspension,Terry Trono Courtroom - Barre,Status Conference,Thursday,29,Apr,2:25,PM,255 North Main Street , Barre,05641,criminal
+632-7-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Thursday,29,Apr,2:30,PM,255 North Main Street , Barre,05641,criminal
+845-8-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Thursday,29,Apr,2:35,PM,255 North Main Street , Barre,05641,criminal
+1277-11-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Thursday,29,Apr,2:40,PM,255 North Main Street , Barre,05641,criminal
+1458-11-18,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Thursday,29,Apr,2:40,PM,255 North Main Street , Barre,05641,criminal
+291-2-19,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Thursday,29,Apr,2:40,PM,255 North Main Street , Barre,05641,criminal
+1329-12-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Thursday,29,Apr,2:45,PM,255 North Main Street , Barre,05641,criminal
+1484-11-18,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Thursday,29,Apr,2:46,PM,255 North Main Street , Barre,05641,criminal
+124-1-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Thursday,29,Apr,2:46,PM,255 North Main Street , Barre,05641,criminal
+423-3-19,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Thursday,29,Apr,2:47,PM,255 North Main Street , Barre,05641,criminal
+1374-12-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Thursday,29,Apr,2:48,PM,255 North Main Street , Barre,05641,criminal
+1104-10-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Thursday,29,Apr,2:51,PM,255 North Main Street , Barre,05641,criminal
+191-2-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Thursday,29,Apr,2:52,PM,255 North Main Street , Barre,05641,criminal
+1184-11-17,washington,criminal,Terry Trono Courtroom - Barre,Confidential Hearing,Thursday,29,Apr,2:53,PM,255 North Main Street , Barre,05641,criminal
+968-9-17,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Thursday,29,Apr,2:53,PM,255 North Main Street , Barre,05641,criminal
+539-4-19,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Thursday,29,Apr,2:53,PM,255 North Main Street , Barre,05641,criminal
 1031-8-18,washington,criminal,Terry Trono Courtroom - Barre,VOP Merits Hearing,Friday,30,Apr,8:30,AM,255 North Main Street , Barre,05641,criminal
 1430-11-18,washington,criminal,Terry Trono Courtroom - Barre,VOP Merits Hearing,Friday,30,Apr,8:30,AM,255 North Main Street , Barre,05641,criminal
 281-2-15,washington,criminal,Terry Trono Courtroom - Barre,Motion Hearing,Friday,30,Apr,9:00,AM,255 North Main Street , Barre,05641,criminal
@@ -1941,16 +1875,28 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 37-1-20,washington,criminal,Terry Trono Courtroom - Barre,Confidential Hearing,Friday,30,Apr,10:00,AM,255 North Main Street , Barre,05641,criminal
 652-7-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Friday,30,Apr,1:30,PM,255 North Main Street , Barre,05641,criminal
 949-9-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Friday,30,Apr,1:35,PM,255 North Main Street , Barre,05641,criminal
+1235-11-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Friday,30,Apr,1:40,PM,255 North Main Street , Barre,05641,criminal
+1242-9-19,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Friday,30,Apr,1:45,PM,255 North Main Street , Barre,05641,criminal
+985-9-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Friday,30,Apr,1:50,PM,255 North Main Street , Barre,05641,criminal
+730-8-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Friday,30,Apr,1:55,PM,255 North Main Street , Barre,05641,criminal
+24-1-21,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Friday,30,Apr,2:00,PM,255 North Main Street , Barre,05641,criminal
+273-3-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Friday,30,Apr,2:05,PM,255 North Main Street , Barre,05641,criminal
+864-8-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Friday,30,Apr,2:10,PM,255 North Main Street , Barre,05641,criminal
+690-7-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Friday,30,Apr,2:15,PM,255 North Main Street , Barre,05641,criminal
+420-5-20,washington,criminal,Terry Trono Courtroom - Barre,Confidential Hearing,Friday,30,Apr,2:20,PM,255 North Main Street , Barre,05641,criminal
+450-6-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Friday,30,Apr,2:20,PM,255 North Main Street , Barre,05641,criminal
+453-6-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Friday,30,Apr,2:20,PM,255 North Main Street , Barre,05641,criminal
+396-5-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Friday,30,Apr,2:20,PM,255 North Main Street , Barre,05641,criminal
+1477-10-19,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Friday,30,Apr,2:25,PM,255 North Main Street , Barre,05641,criminal
+673-7-20,washington,criminal,Terry Trono Courtroom - Barre,Confidential Hearing,Friday,30,Apr,2:30,PM,255 North Main Street , Barre,05641,criminal
+600-7-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Friday,30,Apr,2:35,PM,255 North Main Street , Barre,05641,criminal
+53-1-21,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Friday,30,Apr,2:40,PM,255 North Main Street , Barre,05641,criminal
+13-1-21,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Friday,30,Apr,2:45,PM,255 North Main Street , Barre,05641,criminal
 1173-10-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Tuesday,1,Jun,8:30,AM,255 North Main Street , Barre,05641,criminal
 391-3-19,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Friday,4,Jun,8:30,AM,255 North Main Street , Barre,05641,criminal
-423-3-19,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Friday,4,Jun,8:30,AM,255 North Main Street , Barre,05641,criminal
 1019-8-18,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Monday,7,Jun,11:00,AM,255 North Main Street , Barre,05641,criminal
 1210-9-18,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Tuesday,15,Jun,8:30,AM,255 North Main Street , Barre,05641,criminal
 1022-9-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Tuesday,15,Jun,9:00,AM,255 North Main Street , Barre,05641,criminal
-1123-10-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Tuesday,15,Jun,9:00,AM,255 North Main Street , Barre,05641,criminal
-1130-10-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Tuesday,15,Jun,9:00,AM,255 North Main Street , Barre,05641,criminal
-1241-11-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Tuesday,15,Jun,9:00,AM,255 North Main Street , Barre,05641,criminal
-1291-11-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Tuesday,15,Jun,9:00,AM,255 North Main Street , Barre,05641,criminal
 1157-10-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Tuesday,15,Jun,9:15,AM,255 North Main Street , Barre,05641,criminal
 1139-8-19,washington,criminal,Terry Trono Courtroom - Barre,VOP Merits Hearing,Tuesday,15,Jun,1:30,PM,255 North Main Street , Barre,05641,criminal
 1019-8-18,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Monday,21,Jun,11:00,AM,255 North Main Street , Barre,05641,criminal
@@ -1967,6 +1913,7 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 947-9-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Tuesday,13,Jul,8:30,AM,255 North Main Street , Barre,05641,criminal
 1611-11-19,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Tuesday,13,Jul,8:30,AM,255 North Main Street , Barre,05641,criminal
 1711-12-19,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Tuesday,13,Jul,8:30,AM,255 North Main Street , Barre,05641,criminal
+1316-11-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Tuesday,13,Jul,8:45,AM,255 North Main Street , Barre,05641,criminal
 1067-10-20,washington,criminal,Terry Trono Courtroom - Barre,Confidential Hearing,Monday,2,Aug,8:30,AM,255 North Main Street , Barre,05641,criminal
 1046-10-20,washington,criminal,Terry Trono Courtroom - Barre,Pre Trial Conference,Monday,2,Aug,8:30,AM,255 North Main Street , Barre,05641,criminal
 1224-11-20,washington,criminal,Terry Trono Courtroom - Barre,Pre Trial Conference,Monday,2,Aug,8:30,AM,255 North Main Street , Barre,05641,criminal
@@ -1984,12 +1931,6 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 828-8-20,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Tuesday,3,Aug,9:15,AM,255 North Main Street , Barre,05641,criminal
 138-1-19,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Tuesday,31,Aug,1:00,PM,255 North Main Street , Barre,05641,criminal
 1398-10-19,washington,criminal,Terry Trono Courtroom - Barre,Status Conference,Monday,8,Nov,2:00,PM,255 North Main Street , Barre,05641,criminal
-227-10-20,washington,domestic,Case Manager Conference Room,Case Management Conference,Friday,23,Apr,10:00,AM,255 North Main Street , Barre,05641,family
-143-11-20,washington,juvenile,Terry Trono Courtroom - Barre,Juvenile Confidential Hearing,Friday,23,Apr,9:00,AM,255 North Main Street , Barre,05641,family
-144-11-20,washington,juvenile,Terry Trono Courtroom - Barre,Juvenile Confidential Hearing,Friday,23,Apr,9:00,AM,255 North Main Street , Barre,05641,family
-38-3-19,washington,juvenile,Terry Trono Courtroom - Barre,Juvenile Confidential Hearing,Friday,23,Apr,9:30,AM,255 North Main Street , Barre,05641,family
-39-3-19,washington,juvenile,Terry Trono Courtroom - Barre,Juvenile Confidential Hearing,Friday,23,Apr,9:30,AM,255 North Main Street , Barre,05641,family
-221-12-19,washington,juvenile,Terry Trono Courtroom - Barre,Juvenile Confidential Hearing,Friday,23,Apr,10:30,AM,255 North Main Street , Barre,05641,family
 419-12-16,washington,domestic,Washington Family/Criminal Courtroom 3 -,2nd FloMagistrate Child Support Modification Hearing,Monday,26,Apr,9:00,AM,255 North Main Street , Barre,05641,family
 304-10-17,washington,domestic,Washington Family/Criminal Courtroom 3 -,2nd FloMagistrate Enforcement Hearing,Monday,26,Apr,10:00,AM,255 North Main Street , Barre,05641,family
 469-12-11,washington,domestic,Washington Family/Criminal Courtroom 3 -,2nd FloMotion Hearing,Monday,26,Apr,11:00,AM,255 North Main Street , Barre,05641,family
@@ -2011,9 +1952,6 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 10-1-21,washington,domestic,Terry Trono Courtroom - Barre,Uncontested Dissolution Hearing,Monday,12,Jul,1:00,PM,255 North Main Street , Barre,05641,family
 245-11-20,washington,domestic,Terry Trono Courtroom - Barre,Uncontested Dissolution Hearing,Monday,12,Jul,1:15,PM,255 North Main Street , Barre,05641,family
 357-11-19,washington,domestic,Washington Family/Criminal Courtroom 3 -,2nd FloMagistrate Child Support Establishment Hearing,Tuesday,13,Jul,9:00,AM,255 North Main Street , Barre,05641,family
-289-3-18,windham,criminal,Family/Criminal/Probate Courtroom 1,VOP Sentencing Hearing,Friday,23,Apr,2:00,PM,30 Putney Road , Brattleboro,05301,criminal
-489-4-18,windham,criminal,Family/Criminal/Probate Courtroom 1,VOP Sentencing Hearing,Friday,23,Apr,2:00,PM,30 Putney Road , Brattleboro,05301,criminal
-530-5-19,windham,criminal,Family/Criminal/Probate Courtroom 1,VOP Sentencing Hearing,Friday,23,Apr,2:00,PM,30 Putney Road , Brattleboro,05301,criminal
 84-1-20,windham,criminal,Family/Criminal/Probate Courtroom 1,State of Vermont v.,Tuesday,27,Apr,08:00,AM,30 Putney Road , Brattleboro,05301,criminal
 207-2-20,windham,criminal,Family/Criminal/Probate Courtroom 1,State of Vermont v.,Tuesday,27,Apr,08:00,AM,30 Putney Road , Brattleboro,05301,criminal
 158-2-18,windham,criminal,Family/Criminal/Probate Courtroom 1,State of Vermont v.,Tuesday,27,Apr,11:00,AM,30 Putney Road , Brattleboro,05301,criminal
@@ -2046,7 +1984,7 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 297-3-19,windham,criminal,Family/Criminal/Probate Courtroom 1,Motion Hearing,Thursday,3,Jun,2:30,PM,30 Putney Road , Brattleboro,05301,criminal
 553-5-16,windham,criminal,Family/Criminal/Probate Courtroom 1,Change of Plea Hearing,Wednesday,16,Jun,9:00,AM,30 Putney Road , Brattleboro,05301,criminal
 1185-10-19,windham,criminal,Family/Criminal/Probate Courtroom 1,Status Conference,Wednesday,16,Jun,9:45,AM,30 Putney Road , Brattleboro,05301,criminal
-755-6-15,windham,criminal,Family/Criminal/Probate Courtroom 1,Restitution Hearing,Thursday,17,Jun,2:00,PM,30 Putney Road , Brattleboro,05301,criminal
+755-6-15,windham,criminal,Family/Criminal/Probate Courtroom 1,Restitution Hearing,Wednesday,16,Jun,10:15,AM,30 Putney Road , Brattleboro,05301,criminal
 681-7-17,windham,criminal,Family/Criminal/Probate Courtroom 1,VOP Merits Hearing,Thursday,24,Jun,9:00,AM,30 Putney Road , Brattleboro,05301,criminal
 123-1-19,windham,criminal,Family/Criminal/Probate Courtroom 1,Status Conference,Tuesday,6,Jul,1:00,PM,30 Putney Road , Brattleboro,05301,criminal
 1080-9-19,windham,criminal,Family/Criminal/Probate Courtroom 1,Status Conference,Tuesday,6,Jul,1:00,PM,30 Putney Road , Brattleboro,05301,criminal
@@ -2140,8 +2078,6 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 392-11-19,windham,small claims,Civil Courtroom 4,Contempt Hearing,Wednesday,16,Jun,1:00,PM,P.O. Box 207 , Newfane,05345,civil
 490-10-15,windham,probate,Civil Courtroom 4,Adult Involuntary Guardianship Hearing,Thursday,29,Apr,9:00,AM,30 Putney Rd (2nd floor) , Brattleboro,05301,probate
 287-6-19,windham,probate,Civil Courtroom 4,Confidential Hearing,Thursday,3,Jun,1:00,PM,30 Putney Rd (2nd floor) , Brattleboro,05301,probate
-399-4-19,windsor,criminal,Family/Criminal Courtroom 1,Attorney or Appear Hearing,Friday,23,Apr,1:00,PM,82 Railroad Row , White River Junction,05001,criminal
-936-10-16,windsor,criminal,Family/Criminal Courtroom 1,Status Conference,Friday,23,Apr,1:00,PM,82 Railroad Row , White River Junction,05001,criminal
 812-8-17,windsor,criminal,Family/Criminal Courtroom 1,State of Vermont v.,Tuesday,27,Apr,08:00,AM,82 Railroad Row , White River Junction,05001,criminal
 604-6-19,windsor,criminal,Family/Criminal Courtroom 1,Status Conference,Tuesday,27,Apr,11:00,AM,82 Railroad Row , White River Junction,05001,criminal
 610-6-19,windsor,criminal,Family/Criminal Courtroom 1,Status Conference,Tuesday,27,Apr,11:10,AM,82 Railroad Row , White River Junction,05001,criminal
@@ -2185,8 +2121,6 @@ docket,county,subdivision,court_room,hearing_type,day_of_week,day,month,time,am_
 1292-12-17,windsor,criminal,Family/Criminal Courtroom 1,Status Conference,Tuesday,31,Aug,2:00,PM,82 Railroad Row , White River Junction,05001,criminal
 551-5-19,windsor,criminal,Family/Criminal Courtroom 1,Status Conference,Tuesday,31,Aug,2:00,PM,82 Railroad Row , White River Junction,05001,criminal
 743-7-19,windsor,criminal,Family/Criminal Courtroom 1,Status Conference,Tuesday,31,Aug,2:00,PM,82 Railroad Row , White River Junction,05001,criminal
-92-4-19,windsor,domestic,Family/Criminal Courtroom 2,Contested Dissolution Hearing,Friday,23,Apr,9:00,AM,82 Railroad Row , White River Junction,05001,family
-235-8-16,windsor,domestic,Civil Courtroom,Parental Rights & Responsibilities Modification He,Friday,23,Apr,11:00,AM,82 Railroad Row , White River Junction,05001,family
 108-8-18,windsor,juvenile,Family/Criminal Courtroom 2,Juvenile Confidential Hearing,Monday,26,Apr,9:00,AM,82 Railroad Row , White River Junction,05001,family
 143-10-18,windsor,juvenile,Family/Criminal Courtroom 2,Juvenile Confidential Hearing,Monday,26,Apr,9:30,AM,82 Railroad Row , White River Junction,05001,family
 144-10-18,windsor,juvenile,Family/Criminal Courtroom 2,Juvenile Confidential Hearing,Monday,26,Apr,9:30,AM,82 Railroad Row , White River Junction,05001,family
